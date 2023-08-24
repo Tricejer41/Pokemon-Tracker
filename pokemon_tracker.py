@@ -75,14 +75,11 @@ while True:
 
             for line in chat_lines:
                 line_text = line.get_text(strip=True)
-                print("Line Text:", line_text)  # Impresión para depuración
 
                 if opponent_nickname in line_text:
                     if "sent out" in line_text:
-                        print("Opponent Pokemon Sent Out:", line_text)  # Impresión para depuración
                         opponent_battle_pokemon_names.append(line_text.split("sent out")[1].strip())
                 elif "Go!" in line_text:
-                    print("Your Pokemon Go:", line_text)  # Impresión para depuración
                     your_battle_pokemon_names.append(line_text.split("Go!")[1].strip())
 
                 if len(opponent_battle_pokemon_names) >= 2 and len(your_battle_pokemon_names) >= 2:
@@ -93,11 +90,13 @@ while True:
                 file.write("Battle Result: {}\n".format(battle_result))
                 file.write("\nRival's Pokemon:\n")
                 for name in opponent_pokemon_names:
-                    file.write(name + '\n')
+                    name_without_active = name.replace(" (active)", "")
+                    file.write(name_without_active + '\n')
 
                 file.write("\nYour Pokemon:\n")
                 for name in your_pokemon_names:
-                    file.write(name + '\n')
+                    name_without_active = name.replace(" (active)", "")
+                    file.write(name_without_active + '\n')
 
                 file.write("\nOpponent Rating: {}\n".format(opponent_rating))
                 file.write("Opponent Nickname: {}\n".format(opponent_nickname))

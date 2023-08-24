@@ -148,3 +148,33 @@ Iron Hands
 Chien-Pao
 
 __________________________________________
+Battle Result: −13%
+
+Rival's Pokemon:
+Masquerain
+Sylveon
+Palafin
+Heatran
+Farigiraf
+Pawmot
+
+Your Pokemon:
+Flutter Mane
+Urshifu-*
+Amoonguss
+Chien-Pao
+Iron Hands
+Landorus-Therian
+
+Opponent Rating: 1077
+Opponent Nickname: lost oblitus
+
+First Two Opponent Battle Pokemon:
+Masquerain
+Sylveon
+
+First Two Your Battle Pokemon:
+Iron Hands
+Amoonguss
+
+__________________________________________
