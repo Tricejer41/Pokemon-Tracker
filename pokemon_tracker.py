@@ -53,10 +53,30 @@ while True:
             your_pokemon_icons = your_team_block.find_all('span', class_='picon')
 
             # Extrae los nombres de los Pokémon del rival del atributo aria-label
-            opponent_pokemon_names = [icon['aria-label'] for icon in opponent_pokemon_icons]
+            opponent_pokemon_names = []
+            for icon in opponent_pokemon_icons:
+                name_parts = icon['aria-label'].split(" (")
+                if len(name_parts) > 1:
+                    name = name_parts[1][:-1]
+                    if name != "active":
+                        opponent_pokemon_names.append(name)
+                else:
+                    name = name_parts[0]
+                    if name != "active":
+                        opponent_pokemon_names.append(name)
 
             # Extrae los nombres de tus Pokémon del atributo aria-label
-            your_pokemon_names = [icon['aria-label'] for icon in your_pokemon_icons]
+            your_pokemon_names = []
+            for icon in your_pokemon_icons:
+                name_parts = icon['aria-label'].split(" (")
+                if len(name_parts) > 1:
+                    name = name_parts[1][:-1]
+                    if name != "active":
+                        your_pokemon_names.append(name)
+                else:
+                    name = name_parts[0]
+                    if name != "active":
+                        your_pokemon_names.append(name)
 
             # Extrae el rating del rival
             opponent_rating = opponent_team_block.find('div', class_='trainersprite')['title'].replace('Rating: ', '')
@@ -75,12 +95,21 @@ while True:
 
             for line in chat_lines:
                 line_text = line.get_text(strip=True)
-
-                if opponent_nickname in line_text:
-                    if "sent out" in line_text:
-                        opponent_battle_pokemon_names.append(line_text.split("sent out")[1].strip())
+                
+                if "sent out" in line_text:
+                    if "(" in line_text:
+                        pokemon_name = line_text.split("(")[1].split(")")[0].strip()
+                        opponent_battle_pokemon_names.append(pokemon_name)
+                    else:
+                        pokemon_name = line_text.split("sent out")[1].strip()
+                        opponent_battle_pokemon_names.append(pokemon_name)
                 elif "Go!" in line_text:
-                    your_battle_pokemon_names.append(line_text.split("Go!")[1].strip())
+                    if "(" in line_text:
+                        pokemon_name = line_text.split("(")[1].split(")")[0].strip()
+                        your_battle_pokemon_names.append(pokemon_name)
+                    else:
+                        pokemon_name = line_text.split("sent out")[1].strip()
+                        your_battle_pokemon_names.append(pokemon_name)
 
                 if len(opponent_battle_pokemon_names) >= 2 and len(your_battle_pokemon_names) >= 2:
                     break

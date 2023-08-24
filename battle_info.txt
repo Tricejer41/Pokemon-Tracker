@@ -1,180 +1,263 @@
 Battle Result: Super-effective
 
 Rival's Pokemon:
-Grafaiai (active)
-Slaking
+Farigiraf
+Lilligant-Hisui
 Torkoal
-Typhlosion (Typhlosion-Hisui)
-Chien-Pao
+Tornadus
+Arcanine-Hisui
 Flutter Mane
 
 Your Pokemon:
 Flutter Mane
-Urshifu (Urshifu-Rapid-Strike)
-Amoonguss (active)
-Chien-Pao
-Iron Hands
+Urshifu-*
+Amoonguss
+lflfe (Chien-Pao)
+ledlw (Iron Hands)
 Landorus-Therian
 
-Opponent Rating: 1080
-Opponent Nickname: Kevin_Melons
+Opponent Rating: 1103
+Opponent Nickname: Raspberrie89
 
 First Two Opponent Battle Pokemon:
-Grafaiai!
-Typhlosion (Typhlosion-Hisui)!
 
 First Two Your Battle Pokemon:
-Amoonguss!
-Urshifu (Urshifu-Rapid-Strike)!
+lflfe (Chien-Pao)
+ledlw (Iron Hands)
 
 __________________________________________
-Battle Result: Resisted
+Battle Result: −51%
 
 Rival's Pokemon:
-Scizor (active)
-Tyranitar
-Flutter Mane
-Iron Hands
-Arcanine
-Amoonguss
+Talonflame
+Sylveon
+Kilowattrel
+Pelipper
+Venomoth
+Drifblim
 
 Your Pokemon:
 Flutter Mane
 Urshifu-*
 Amoonguss
 Chien-Pao
-Iron Hands (active)
-Landorus-Therian
+yyy (Iron Hands)
+vvbf (Landorus-Therian)
 
-Opponent Rating: 1059
-Opponent Nickname: Stakeboy123
+Opponent Rating: 1027
+Opponent Nickname: Muskyman
 
 First Two Opponent Battle Pokemon:
-Scizor!
-Iron Hands!
 
 First Two Your Battle Pokemon:
-Iron Hands!
-Amoonguss!
 
 __________________________________________
-Battle Result: −19%
+Battle Result: −17%
 
 Rival's Pokemon:
-Sneasler (active)
-Hatterene
-Kingambit
-Tornadus
-Grafaiai
+Urshifu-*
+Iron Hands
 Flutter Mane
+Dragonite
+Amoonguss
+Pelipper
 
 Your Pokemon:
 Flutter Mane
-Urshifu (Urshifu-Rapid-Strike) (active)
+Urshifu-*
 Amoonguss
 Chien-Pao
+yyy
+vvbf
+
+Opponent Rating: 1034
+Opponent Nickname: Inn0X
+
+First Two Opponent Battle Pokemon:
+Dragonite
+Flutter Mane
+
+First Two Your Battle Pokemon:
+yyy (Iron Hands)
+vvbf (Landorus-Therian)
+
+__________________________________________
+Battle Result: −50%
+
+Rival's Pokemon:
+Articuno
+Urshifu
+Landorus-Therian
+Blissey
+Ceruledge
+Chien-Pao
+
+Your Pokemon:
+wwwe
+Urshifu-*
+Amoonguss
+ttt
 Iron Hands
 Landorus-Therian
 
-Opponent Rating: 1067
-Opponent Nickname: broccoliwizard
+Opponent Rating: 1038
+Opponent Nickname: faiqberakjago
 
 First Two Opponent Battle Pokemon:
-Sneasler!
-Tornadus!
+Articuno
+Urshifu
 
 First Two Your Battle Pokemon:
-Urshifu (Urshifu-Rapid-Strike)!
-Iron Hands!
-
-__________________________________________
-Battle Result: −38%
-
-Rival's Pokemon:
-
-
-
-
-
-
-
-Your Pokemon:
-
-
-
-
-
-
-
-Opponent Rating: 1012
-Opponent Nickname: thebeast4895
-
-First Two Opponent Battle Pokemon:
-Scizor
-Tatsugiri
-
-First Two Your Battle Pokemon:
-Chien-Pao
-Amoonguss
+ttt
+wwwe
 
 __________________________________________
 Battle Result: Protected
 
 Rival's Pokemon:
-Amelia (Arcanine) (active)
-Dragapult
-Ursaluna
-Tinkerhell (Breloom)
-Chien-Pao
-Annihilape
+Mbappe
+Oranguru
+Garganacl
+Armarouge
+Indeedee-F
+Kingambit
 
 Your Pokemon:
+OhMyGawd!
+P-p-p-Perfect!
+Indeedee-F
+Armarouge
 Flutter Mane
-Urshifu-*
-Amoonguss
-Chien-Pao
-Iron Hands (active)
-Landorus-Therian
+Charizard
 
-Opponent Rating: 1000
-Opponent Nickname: gunslingermeist
+Opponent Rating: 1074
+Opponent Nickname: Adiwatay
 
 First Two Opponent Battle Pokemon:
-Amelia (Arcanine)
-Tinkerhell (Breloom)
+Torkoal
+Oranguru
 
 First Two Your Battle Pokemon:
-Iron Hands
-Chien-Pao
+Torkoal
+Lilligant-Hisui
 
 __________________________________________
-Battle Result: −13%
+Battle Result: Critical hit
 
 Rival's Pokemon:
-Masquerain
-Sylveon
-Palafin
-Heatran
-Farigiraf
-Pawmot
+Flutter Mane
+active
+Gholdengo
+Tornadus
+Landorus-Therian
+Arcanine-Hisui
 
 Your Pokemon:
+Torkoal
+Lilligant-Hisui
+Indeedee-F
+Armarouge
 Flutter Mane
-Urshifu-*
-Amoonguss
-Chien-Pao
-Iron Hands
-Landorus-Therian
+Charizard
 
-Opponent Rating: 1077
-Opponent Nickname: lost oblitus
+Opponent Rating: 1000
+Opponent Nickname: Go1iathe
 
 First Two Opponent Battle Pokemon:
-Masquerain
-Sylveon
+Urshifu
+Tornadus
 
 First Two Your Battle Pokemon:
+Torkoal
+Indeedee-F
+
+__________________________________________
+Battle Result: Super-effective
+
+Rival's Pokemon:
+Qwilfish-Hisui
+Enamorus
+Tornadus
+Gengar
+Landorus-Therian
+
+Your Pokemon:
+Torkoal
+Lilligant-Hisui
+Indeedee-F
+Armarouge
+Flutter Mane
+Charizard
+
+Opponent Rating: 1063
+Opponent Nickname: dutch1893
+
+First Two Opponent Battle Pokemon:
+Urshifu
+Tornadus
+
+First Two Your Battle Pokemon:
+Torkoal
+Indeedee-F
+
+__________________________________________
+Battle Result: Intimidate
+
+Rival's Pokemon:
 Iron Hands
-Amoonguss
+Iron Bundle
+Maushold-Four
+Flutter Mane
+Arcanine-Hisui
+Rillaboom
+
+Your Pokemon:
+Torkoal
+Lilligant-Hisui
+Indeedee-F
+Armarouge
+Flutter Mane
+Charizard
+
+Opponent Rating: 1081
+Opponent Nickname: Swizzard
+
+First Two Opponent Battle Pokemon:
+Arcanine-Hisui
+Maushold-Four
+
+First Two Your Battle Pokemon:
+Torkoal
+Indeedee-F
+
+__________________________________________
+Battle Result: Helping Hand
+
+Rival's Pokemon:
+Iron Hands
+Indeedee-F
+Maushold-Four
+Iron Valiant
+Talonflame
+Toxapex
+
+Your Pokemon:
+Torkoal
+Lilligant-Hisui
+Indeedee-F
+Armarouge
+Flutter Mane
+Charizard
+
+Opponent Rating: 1075
+Opponent Nickname: WhylaUU
+
+First Two Opponent Battle Pokemon:
+Toxapex
+Maushold-Four
+
+First Two Your Battle Pokemon:
+Torkoal
+Indeedee-F
 
 __________________________________________
