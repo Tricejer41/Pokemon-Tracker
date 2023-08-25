@@ -52,31 +52,52 @@ while True:
             # Encuentra todos los elementos con la clase picon dentro de tu bloque
             your_pokemon_icons = your_team_block.find_all('span', class_='picon')
 
-            # Extrae los nombres de los Pokémon del rival del atributo aria-label
-            opponent_pokemon_names = []
             for icon in opponent_pokemon_icons:
-                name_parts = icon['aria-label'].split(" (")
-                if len(name_parts) > 1:
-                    name = name_parts[1][:-1]
-                    if name != "active":
-                        opponent_pokemon_names.append(name)
+                if 'aria-label' in icon.attrs:
+                    print("Raw name:", icon['aria-label'])
                 else:
-                    name = name_parts[0]
-                    if name != "active":
-                        opponent_pokemon_names.append(name)
+                    print("No aria-label attribute found for:", icon)
+
+            for icon in your_pokemon_icons:
+                if 'aria-label' in icon.attrs:
+                    print("Raw name:", icon['aria-label'])
+                else:
+                    print("No aria-label attribute found for:", icon)
+
+            # Función para obtener el nombre limpio del Pokémon
+            def get_cleaned_name(icon):
+                name_parts = re.split(r' \(|\(', icon['aria-label'])
+
+                # Caso 1: Solo un nombre
+                if len(name_parts) == 1:
+                    return name_parts[0].strip()
+
+                # Caso 2: Dos nombres con "active" entre paréntesis
+                if len(name_parts) == 3 and "active" in name_parts[2].lower():
+                    return name_parts[1].strip()
+
+                # Caso 3: Dos nombres sin "active" entre paréntesis
+                if len(name_parts) == 3:
+                    return name_parts[0].strip()
+
+                # Caso 4: Tres nombres con dos pares de paréntesis
+                if len(name_parts) == 5:
+                    third_part = name_parts[2].strip()  # Obtener la tercera parte y eliminar espacios en blanco 
+                    if ")" in third_part:
+                        return third_part.split(")")[0].strip()  # Eliminar el paréntesis final si existe
+                    else:
+                        return third_part
+
+                # Elimina paréntesis finales no deseados
+                return icon['aria-label'].split("(")[0].strip()
+
+
+            # Extrae los nombres de los Pokémon del rival del atributo aria-label
+            opponent_pokemon_names = [get_cleaned_name(icon) for icon in opponent_pokemon_icons]
 
             # Extrae los nombres de tus Pokémon del atributo aria-label
-            your_pokemon_names = []
-            for icon in your_pokemon_icons:
-                name_parts = icon['aria-label'].split(" (")
-                if len(name_parts) > 1:
-                    name = name_parts[1][:-1]
-                    if name != "active":
-                        your_pokemon_names.append(name)
-                else:
-                    name = name_parts[0]
-                    if name != "active":
-                        your_pokemon_names.append(name)
+            your_pokemon_names = [get_cleaned_name(icon) for icon in your_pokemon_icons]
+
 
             # Extrae el rating del rival
             opponent_rating = opponent_team_block.find('div', class_='trainersprite')['title'].replace('Rating: ', '')
@@ -119,12 +140,12 @@ while True:
                 file.write("Battle Result: {}\n".format(battle_result))
                 file.write("\nRival's Pokemon:\n")
                 for name in opponent_pokemon_names:
-                    name_without_active = name.replace(" (active)", "")
+                    name_without_active = name.replace(" (active)", "").rstrip(')').strip()
                     file.write(name_without_active + '\n')
 
                 file.write("\nYour Pokemon:\n")
                 for name in your_pokemon_names:
-                    name_without_active = name.replace(" (active)", "")
+                    name_without_active = name.replace(" (active)", "").rstrip(')').strip()
                     file.write(name_without_active + '\n')
 
                 file.write("\nOpponent Rating: {}\n".format(opponent_rating))
