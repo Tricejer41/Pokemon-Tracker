@@ -736,3 +736,35 @@ Torkoal
 Indeedee-F
 
 __________________________________________
+Battle Result: Psychic Surge
+
+Rival's Pokemon:
+Thundurus
+Gholdengo
+Amoonguss
+Enamorus-Therian
+Cresselia
+Arcanine-Hisui
+
+Your Pokemon:
+Torkoal
+Lilligant-Hisui
+Indeedee
+Armarouge
+Flutter Mane
+Charizard
+
+Opponent Rating: 1042
+Opponent Nickname: Yerba Del Rio
+\Your Rating: 1000
+Your Nickname: pdwlwpwd
+
+First Two Opponent Battle Pokemon:
+Gholdengo
+Thundurus
+
+First Two Your Battle Pokemon:
+Torkoal
+Indeedee-F
+
+__________________________________________

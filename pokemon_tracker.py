@@ -52,18 +52,6 @@ while True:
             # Encuentra todos los elementos con la clase picon dentro de tu bloque
             your_pokemon_icons = your_team_block.find_all('span', class_='picon')
 
-            for icon in opponent_pokemon_icons:
-                if 'aria-label' in icon.attrs:
-                    print("Raw name:", icon['aria-label'])
-                else:
-                    print("No aria-label attribute found for:", icon)
-
-            for icon in your_pokemon_icons:
-                if 'aria-label' in icon.attrs:
-                    print("Raw name:", icon['aria-label'])
-                else:
-                    print("No aria-label attribute found for:", icon)
-
             # Función para obtener el nombre limpio del Pokémon
             def get_cleaned_name(icon):
                 name_parts = re.split(r' \(|\(', icon['aria-label'])
@@ -98,12 +86,17 @@ while True:
             # Extrae los nombres de tus Pokémon del atributo aria-label
             your_pokemon_names = [get_cleaned_name(icon) for icon in your_pokemon_icons]
 
-
             # Extrae el rating del rival
             opponent_rating = opponent_team_block.find('div', class_='trainersprite')['title'].replace('Rating: ', '')
 
             # Extrae tu nickname
             opponent_nickname = opponent_team_block.find('strong').get_text(strip=True)
+
+            # Extrae el rating del rival
+            your_rating = your_team_block.find('div', class_='trainersprite')['title'].replace('Rating: ', '')
+
+            # Extrae tu nickname
+            your_nickname = your_team_block.find('strong').get_text(strip=True)
 
             # Extrae el resultado de la batalla (ganaste o perdiste)
             battle_result = battle_result_element.get_text(strip=True)
@@ -150,6 +143,9 @@ while True:
 
                 file.write("\nOpponent Rating: {}\n".format(opponent_rating))
                 file.write("Opponent Nickname: {}\n".format(opponent_nickname))
+
+                file.write("Your Rating: {}\n".format(your_rating))
+                file.write("Your Nickname: {}\n".format(your_nickname))
 
                 file.write("\nFirst Two Opponent Battle Pokemon:\n")
                 for name in opponent_battle_pokemon_names:
