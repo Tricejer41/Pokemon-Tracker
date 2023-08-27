@@ -1,23 +1,29 @@
 {
-    "yo": "fqfqwgewgr",
-    "oponente": "PoiledBotato",
+    "yo": "fefwkfmqrqr",
+    "oponente": "PMRONS",
     "pokemons_yo": [
-        "Torkoal",
-        "Lilligant-Hisui",
-        "Indeedee-F",
         "Armarouge",
-        "Flutter",
-        "Mane",
-        "Charizard"
+        "Charizard",
+        "Flutter Mane",
+        "Indeedee-F",
+        "Lilligant-Hisui",
+        "Torkoal"
     ],
     "pokemons_oponente": [
-        "Blissey",
-        "Heatran",
-        "Slowking-Galar",
-        "Iron",
-        "Hands",
-        "Regidrago",
-        "Basculegion"
+        "Amoonguss",
+        "Annihilape",
+        "Flutter Mane",
+        "Garganacl",
+        "Greninja",
+        "Scizor"
     ],
-    "resultado": "derrota"
+    "lead_yo": [
+        "Indeedee-F",
+        "Torkoal"
+    ],
+    "lead_oponente": [
+        "Armarouge",
+        "Flutter Mane"
+    ],
+    "resultado": "Derrota"
 }

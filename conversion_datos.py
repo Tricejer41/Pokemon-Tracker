@@ -1,7 +1,7 @@
 import re
 import json
 
-MI_NOMBRE_DE_USUARIO = "fqfqwgewgr"
+MI_NOMBRE_DE_USUARIO = "fefwkfmqrqr"
 
 def procesar_linea(linea, datos_participantes):
     if "Battle started between" in linea:
@@ -18,19 +18,47 @@ def procesar_linea(linea, datos_participantes):
     
     if "won the battle!" in linea:
         if MI_NOMBRE_DE_USUARIO in linea:
-            datos_participantes['resultado'] = 'victoria'
+            datos_participantes['resultado'] = 'Victoria'
         else:
-            datos_participantes['resultado'] = 'derrota'
+            datos_participantes['resultado'] = 'Derrota'
     
     if "'s team: " in linea:
         jugador_nombre = re.search(r"(\w+)'s team:", linea).group(1)
-        nombres_pokemon = re.findall(r'\w+(?:-\w+)?', linea[linea.index(":") + 2:])
+        nombres_pokemon = re.findall(r'\w+(?:-\w+)?(?: \w+(?:-\w+)?)*', linea[linea.index(":") + 2:])
+        nombres_pokemon_ordenados = sorted(nombres_pokemon)  # Ordenar alfabéticamente
         if jugador_nombre == MI_NOMBRE_DE_USUARIO:
-            datos_participantes['pokemons_yo'] = nombres_pokemon
+            datos_participantes['pokemons_yo'] = nombres_pokemon_ordenados
         else:
-            datos_participantes['pokemons_oponente'] = nombres_pokemon
+            datos_participantes['pokemons_oponente'] = nombres_pokemon_ordenados
+
+
     
+    if "sent out" in linea:
+        if "(" in linea:
+            pokemon_name = linea.split("(")[1].split(")")[0].strip()
+            pokemon_name = pokemon_name.rstrip("!")
+            datos_participantes['lead_oponente'].append(pokemon_name)
+        else:
+            pokemon_name = linea.split("sent out")[1].strip()
+            pokemon_name = pokemon_name.rstrip("!")
+            datos_participantes['lead_oponente'].append(pokemon_name)
+        
+        datos_participantes['lead_oponente'] = sorted(datos_participantes['lead_oponente'])  # Ordenar alfabéticamente
+
+    if "Go!" in linea:
+        if "(" in linea:
+            pokemon_name = linea.split("(")[1].split(")")[0].strip()
+            pokemon_name = pokemon_name.rstrip("!")
+            datos_participantes['lead_yo'].append(pokemon_name)
+        else:
+            pokemon_name = linea.split("Go!")[1].strip()
+            pokemon_name = pokemon_name.rstrip("!")
+            datos_participantes['lead_yo'].append(pokemon_name)
+        
+        datos_participantes['lead_yo'] = sorted(datos_participantes['lead_yo'])  # Ordenar alfabéticamente
+
     return datos_participantes
+
 
 def procesar_archivo(archivo_entrada):
     datos_partida = {
@@ -38,6 +66,8 @@ def procesar_archivo(archivo_entrada):
         'oponente': '',
         'pokemons_yo': [],
         'pokemons_oponente': [],
+        'lead_yo': [],
+        'lead_oponente': [],
         'resultado': ''
     }
 
@@ -48,7 +78,7 @@ def procesar_archivo(archivo_entrada):
     return datos_partida
 
 if __name__ == "__main__":
-    archivo_entrada = "chat_history.txt"  # Reemplaza con el nombre de tu archivo de entrada
+    archivo_entrada = "all_logs.txt"  # Reemplaza con el nombre de tu archivo de entrada
     datos_partida = procesar_archivo(archivo_entrada)
     
     with open("team-datos.json", 'w') as f:
