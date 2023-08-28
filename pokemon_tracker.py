@@ -1,11 +1,9 @@
 import re
-import subprocess
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium import webdriver
 from bs4 import BeautifulSoup
-import time
 
 # Configura el navegador (por ejemplo, Chrome)
 driver = webdriver.Chrome()
