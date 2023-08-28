@@ -25,7 +25,7 @@ combat_ended = True
 while True:
     try:
         # Espera a que ocurra un cambio en el URL (inicio de una nueva batalla)
-        wait = WebDriverWait(driver, 120)  # Espera máximo 120 segundos
+        wait = WebDriverWait(driver, 1000)  # Espera máximo 120 segundos
         new_battle_url = "https://play.pokemonshowdown.com/battle-gen9vgc2023regulationd"
         element_present = EC.url_contains(new_battle_url)
         wait.until(element_present)
