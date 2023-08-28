@@ -1,7 +1,11 @@
 [
     {
-        "yo": "Sdetic",
-        "oponente": "iJash",
+        "yo": "edwqrqtgf",
+        "oponente": "ramirok0",
+        "rating_anterior_yo": 1000,
+        "rating_posterior_yo": 1000,
+        "rating_anterior_oponente": 1000,
+        "rating_posterior_oponente": 1040,
         "pokemons_yo": [
             "Amoonguss",
             "Chien-Pao",
@@ -11,311 +15,87 @@
             "Urshifu"
         ],
         "pokemons_oponente": [
-            "Arcanine",
+            "Amoonguss",
             "Chi-Yu",
             "Flutter Mane",
-            "Iron Hands",
-            "Thundurus",
+            "Regidrago",
+            "Tornadus",
             "Urshifu"
         ],
         "lead_yo": [
-            "Amoonguss",
-            "Iron Hands"
+            "Iron Hands",
+            "Amoonguss"
         ],
         "lead_oponente": [
+            "Tornadus",
+            "Chi-Yu"
+        ],
+        "resultado": "Derrota"
+    },
+    {
+        "yo": "edwqrqtgf",
+        "oponente": "drizziworking",
+        "rating_anterior_yo": 1000,
+        "rating_posterior_yo": 1000,
+        "rating_anterior_oponente": 1042,
+        "rating_posterior_oponente": 1072,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
             "Chi-Yu",
-            "Flutter Mane"
-        ],
-        "resultado": "Derrota"
-    },
-    {
-        "yo": "Sdetic",
-        "oponente": "yeardtle",
-        "pokemons_yo": [
-            "Amoonguss",
-            "Chien-Pao",
-            "Flutter Mane",
-            "Iron Hands",
-            "Landorus-Therian",
-            "Urshifu"
-        ],
-        "pokemons_oponente": [
-            "Chien-Pao",
-            "Garchomp",
+            "Great Tusk",
             "Iron Bundle",
-            "Landorus-Therian",
-            "Rillaboom",
-            "Tornadus"
-        ],
-        "lead_yo": [
-            "Iron Hands",
-            "Amoonguss"
-        ],
-        "lead_oponente": [
-            "Tornadus",
-            "Iron Bundle"
-        ],
-        "resultado": "Victoria"
-    },
-    {
-        "yo": "Sdetic",
-        "oponente": "Balester",
-        "pokemons_yo": [
-            "Amoonguss",
-            "Chien-Pao",
-            "Flutter Mane",
-            "Iron Hands",
-            "Landorus-Therian",
-            "Urshifu"
-        ],
-        "pokemons_oponente": [
-            "Amoonguss",
-            "Heatran",
-            "Landorus-Therian",
-            "Rillaboom",
-            "Tinkaton",
-            "Urshifu"
-        ],
-        "lead_yo": [
-            "Landorus-Therian",
-            "Amoonguss"
-        ],
-        "lead_oponente": [
-            "Tinkaton",
-            "Landorus-Therian"
-        ],
-        "resultado": "Victoria"
-    },
-    {
-        "yo": "Sdetic",
-        "oponente": "Coolcadeiscool",
-        "pokemons_yo": [
-            "Amoonguss",
-            "Chien-Pao",
-            "Flutter Mane",
-            "Iron Hands",
-            "Landorus-Therian",
-            "Urshifu"
-        ],
-        "pokemons_oponente": [
-            "Chien-Pao",
-            "Heatran",
-            "Landorus-Therian",
-            "Rillaboom",
-            "Urshifu",
-            "Zapdos"
-        ],
-        "lead_yo": [
-            "Chien-Pao",
-            "Iron Hands"
-        ],
-        "lead_oponente": [
-            "Urshifu-Rapid-Strike",
-            "Landorus-Therian"
-        ],
-        "resultado": "Derrota"
-    },
-    {
-        "yo": "Sdetic",
-        "oponente": "faewhim",
-        "pokemons_yo": [
-            "Amoonguss",
-            "Chien-Pao",
-            "Flutter Mane",
-            "Iron Hands",
-            "Landorus-Therian",
-            "Urshifu"
-        ],
-        "pokemons_oponente": [
-            "Chien-Pao",
-            "Flutter Mane",
-            "Iron Bundle",
-            "Slither Wing",
-            "Tornadus",
-            "Urshifu"
-        ],
-        "lead_yo": [
-            "Iron Hands",
-            "Amoonguss"
-        ],
-        "lead_oponente": [
-            "Tornadus",
-            "Flutter Mane"
-        ],
-        "resultado": "Derrota"
-    },
-    {
-        "yo": "",
-        "oponente": "",
-        "pokemons_yo": [
-            "Amoonguss",
-            "Chien-Pao",
-            "Flutter Mane",
-            "Iron Hands",
-            "Landorus-Therian",
-            "Urshifu"
-        ],
-        "pokemons_oponente": [
-            "Chien-Pao",
-            "Dragapult",
-            "Farigiraf",
-            "Heatran",
-            "Tornadus",
-            "Urshifu"
-        ],
-        "lead_yo": [
-            "Amoonguss",
-            "Iron Hands"
-        ],
-        "lead_oponente": [
-            "Farigiraf",
-            "Dragapult"
-        ],
-        "resultado": "Derrota"
-    },
-    {
-        "yo": "Sdetic",
-        "oponente": "RoboticRacer14a",
-        "pokemons_yo": [
-            "Amoonguss",
-            "Chien-Pao",
-            "Flutter Mane",
-            "Iron Hands",
-            "Landorus-Therian",
-            "Urshifu"
-        ],
-        "pokemons_oponente": [
-            "Flutter Mane",
-            "Grimmsnarl",
-            "Indeedee-F",
-            "Iron Hands",
-            "Landorus-Therian",
-            "Urshifu"
-        ],
-        "lead_yo": [
-            "Flutter Mane",
-            "Chien-Pao"
-        ],
-        "lead_oponente": [
-            "Grimmsnarl",
-            "Urshifu-Rapid-Strike"
-        ],
-        "resultado": "Victoria"
-    },
-    {
-        "yo": "Sdetic",
-        "oponente": "darkktony",
-        "pokemons_yo": [
-            "Amoonguss",
-            "Chien-Pao",
-            "Flutter Mane",
-            "Iron Hands",
-            "Landorus-Therian",
-            "Urshifu"
-        ],
-        "pokemons_oponente": [
-            "Amoonguss",
-            "Iron Hands",
-            "Landorus-Therian",
-            "Meowscarada",
-            "Tornadus",
-            "Urshifu"
-        ],
-        "lead_yo": [
-            "Iron Hands",
-            "Amoonguss"
-        ],
-        "lead_oponente": [
-            "Tornadus",
-            "Landorus-Therian"
-        ],
-        "resultado": "Victoria"
-    },
-    {
-        "yo": "Sdetic",
-        "oponente": "loveriverg",
-        "pokemons_yo": [
-            "Amoonguss",
-            "Chien-Pao",
-            "Flutter Mane",
-            "Iron Hands",
-            "Landorus-Therian",
-            "Urshifu"
-        ],
-        "pokemons_oponente": [
-            "Flutter Mane",
-            "Heatran",
-            "Iron Bundle",
-            "Landorus-Therian",
-            "Rillaboom",
-            "Urshifu"
-        ],
-        "lead_yo": [
-            "Iron Hands",
-            "Amoonguss"
-        ],
-        "lead_oponente": [
-            "Flutter Mane",
-            "Iron Bundle"
-        ],
-        "resultado": "Victoria"
-    },
-    {
-        "yo": "Sdetic",
-        "oponente": "Laithani",
-        "pokemons_yo": [
-            "Amoonguss",
-            "Chien-Pao",
-            "Flutter Mane",
-            "Iron Hands",
-            "Landorus-Therian",
-            "Urshifu"
-        ],
-        "pokemons_oponente": [
-            "Baxcalibur",
-            "Gyarados",
-            "Iron Valiant",
-            "Talonflame",
-            "Urshifu",
-            "Volcarona"
-        ],
-        "lead_yo": [
-            "Iron Hands",
-            "Amoonguss"
-        ],
-        "lead_oponente": [
-            "Talonflame",
-            "Urshifu"
-        ],
-        "resultado": "Derrota"
-    },
-    {
-        "yo": "Sdetic",
-        "oponente": "boneclubmarowak",
-        "pokemons_yo": [
-            "Amoonguss",
-            "Chien-Pao",
-            "Flutter Mane",
-            "Iron Hands",
-            "Landorus-Therian",
-            "Urshifu"
-        ],
-        "pokemons_oponente": [
-            "Amoonguss",
-            "Arcanine-Hisui",
-            "Flutter Mane",
-            "Moltres-Galar",
-            "Thundurus",
-            "Urshifu"
+            "Raichu-Alola",
+            "Sneasler",
+            "Thundurus"
         ],
         "lead_yo": [
             "Urshifu-Rapid-Strike",
             "Amoonguss"
         ],
         "lead_oponente": [
-            "Flutter Mane",
-            "Arcanine-Hisui"
+            "Thundurus",
+            "Sneasler"
         ],
-        "resultado": "Victoria"
+        "resultado": "Derrota"
+    },
+    {
+        "yo": "edwqrqtgf",
+        "oponente": "ramirok0",
+        "rating_anterior_yo": 1000,
+        "rating_posterior_yo": 1000,
+        "rating_anterior_oponente": 1000,
+        "rating_posterior_oponente": 1040,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Amoonguss",
+            "Chi-Yu",
+            "Flutter Mane",
+            "Regidrago",
+            "Tornadus",
+            "Urshifu"
+        ],
+        "lead_yo": [
+            "Iron Hands",
+            "Amoonguss"
+        ],
+        "lead_oponente": [
+            "Tornadus",
+            "Chi-Yu"
+        ],
+        "resultado": "Derrota"
     }
 ]

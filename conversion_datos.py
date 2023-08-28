@@ -1,7 +1,7 @@
 import re
 import json
 
-MI_NOMBRE_DE_USUARIO = "Sdetic"
+MI_NOMBRE_DE_USUARIO = "edwqrqtgf"
 
 def procesar_linea(linea, datos_participantes):
     if "Battle started between" in linea:
@@ -22,6 +22,20 @@ def procesar_linea(linea, datos_participantes):
         else:
             datos_participantes['resultado'] = 'Derrota'
     
+    # Buscar las líneas que contienen los ratings y extraer los valores
+    if "'s rating: " in linea:
+        m = re.search(r"rating: (\d+) â†’ (\d+)\(", linea)
+        if m:
+            rating_anterior, rating_posterior = int(m.group(1)), int(m.group(2))
+            if MI_NOMBRE_DE_USUARIO in linea:
+                datos_participantes['rating_anterior_yo'] = rating_anterior
+                datos_participantes['rating_posterior_yo'] = rating_posterior
+            else:
+                datos_participantes['rating_anterior_oponente'] = rating_anterior
+                datos_participantes['rating_posterior_oponente'] = rating_posterior
+
+
+    
     if "'s team: " in linea:
         jugador_nombre = re.search(r"(\w+)'s team:", linea).group(1)
         nombres_pokemon = re.findall(r'\w+(?:-\w+)?(?: \w+(?:-\w+)?)*', linea[linea.index(":") + 2:])
@@ -31,8 +45,6 @@ def procesar_linea(linea, datos_participantes):
         else:
             datos_participantes['pokemons_oponente'] = nombres_pokemon_ordenados
 
-
-    
     if "sent out" in linea:
         if "(" in linea:
             pokemon_name = linea.split("(")[1].split(")")[0].strip()
@@ -71,6 +83,10 @@ def procesar_archivo(archivo_entrada):
                 datos_partida = {
                     'yo': '',
                     'oponente': '',
+                    'rating_anterior_yo': 0,  # Valor por defecto
+                    'rating_posterior_yo': 0,  # Valor por defecto
+                    'rating_anterior_oponente': 0,  # Valor por defecto
+                    'rating_posterior_oponente': 0,  # Valor por defecto
                     'pokemons_yo': [],
                     'pokemons_oponente': [],
                     'lead_yo': [],

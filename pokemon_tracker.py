@@ -36,8 +36,9 @@ while True:
 
         if not combat_ended:
             soup = BeautifulSoup(driver.page_source, 'html.parser')
-            end_of_battle_text = "won the battle"  # Mensaje que indica el final de la batalla
-            if end_of_battle_text in soup.get_text():
+            end_of_battle_text = "winning)"
+            end_of_battle_text2 = "losing)"  # Mensaje que indica el final de la batalla
+            if end_of_battle_text and end_of_battle_text2 in soup.get_text():
                 combat_ended = True
                 chat_history = soup.find('div', class_='inner message-log')
 
