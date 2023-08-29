@@ -11,13 +11,15 @@ while True:
 
     # Paso 2: Crear DataFrame con pandas
     df = pd.DataFrame(data)
+    df['indice'] = range(1, len(df) + 1)  # Agregar índices numéricos a las partidas
 
     # Menú de opciones
     print("Elija una opción:")
     print("1. Apariciones de Pokémon Rival en Derrotas")
     print("2. Combinaciones de Leads Rival en Derrotas")
     print("3. Porcentaje de Victorias y Derrotas")
-    print("4. Salir")
+    print("4. Evolución de mi Rating Anterior")
+    print("5. Salir")
 
     opcion = input("Ingrese el número de la opción que desea visualizar: ")
 
@@ -89,6 +91,26 @@ while True:
         plt.show()
 
     elif opcion == '4':
+        
+         # Paso 3: Filtrar combates en los que tienes información de rating_anterior_yo
+        combates_con_rating = df[df['rating_anterior_yo'].notnull()]
+
+        # Paso 4: Crear visualización de evolución de rating_anterior_yo
+        plt.figure(figsize=(10, 6))
+        plt.plot(combates_con_rating['indice'], combates_con_rating['rating_anterior_yo'], marker='o', linestyle='-')
+        plt.title('Evolución de mi Rating Anterior')
+        plt.xlabel('Índice del Combate')
+        plt.ylabel('Rating Precedente Yo')
+        plt.xticks(rotation=45)
+        plt.tight_layout()
+
+        # Agregar números encima de los puntos
+        for x, y, numero in zip(combates_con_rating['indice'], combates_con_rating['rating_anterior_yo'], combates_con_rating['rating_anterior_yo']):
+            plt.annotate(str(numero), xy=(x, y), xytext=(5, 5), textcoords='offset points')
+
+        plt.show()
+        
+    elif opcion == '5':
         print("Saliendo del programa...")
         break
 

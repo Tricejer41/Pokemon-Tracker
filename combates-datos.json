@@ -1,11 +1,11 @@
 [
     {
-        "yo": "edwqrqtgf",
-        "oponente": "ramirok0",
+        "yo": "kebabsinqueso",
+        "oponente": "weempoweebly",
         "rating_anterior_yo": 1000,
-        "rating_posterior_yo": 1000,
-        "rating_anterior_oponente": 1000,
-        "rating_posterior_oponente": 1040,
+        "rating_posterior_yo": 1052,
+        "rating_anterior_oponente": 1103,
+        "rating_posterior_oponente": 1071,
         "pokemons_yo": [
             "Amoonguss",
             "Chien-Pao",
@@ -16,62 +16,392 @@
         ],
         "pokemons_oponente": [
             "Amoonguss",
+            "Basculegion",
             "Chi-Yu",
-            "Flutter Mane",
-            "Regidrago",
-            "Tornadus",
-            "Urshifu"
-        ],
-        "lead_yo": [
-            "Iron Hands",
-            "Amoonguss"
-        ],
-        "lead_oponente": [
-            "Tornadus",
-            "Chi-Yu"
-        ],
-        "resultado": "Derrota"
-    },
-    {
-        "yo": "edwqrqtgf",
-        "oponente": "drizziworking",
-        "rating_anterior_yo": 1000,
-        "rating_posterior_yo": 1000,
-        "rating_anterior_oponente": 1042,
-        "rating_posterior_oponente": 1072,
-        "pokemons_yo": [
-            "Amoonguss",
-            "Chien-Pao",
-            "Flutter Mane",
-            "Iron Hands",
-            "Landorus-Therian",
-            "Urshifu"
-        ],
-        "pokemons_oponente": [
-            "Chi-Yu",
-            "Great Tusk",
-            "Iron Bundle",
-            "Raichu-Alola",
+            "Indeedee-F",
             "Sneasler",
-            "Thundurus"
+            "Tornadus"
         ],
         "lead_yo": [
-            "Urshifu-Rapid-Strike",
+            "Iron Hands",
             "Amoonguss"
         ],
         "lead_oponente": [
-            "Thundurus",
-            "Sneasler"
+            "Sneasler",
+            "Indeedee-F"
+        ],
+        "resultado": "Victoria"
+    },
+    {
+        "yo": "kebabsinqueso",
+        "oponente": "Frostburg",
+        "rating_anterior_yo": 1052,
+        "rating_posterior_yo": 1084,
+        "rating_anterior_oponente": 1049,
+        "rating_posterior_oponente": 1032,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Basculegion-F",
+            "Gastrodon-East",
+            "Pelipper",
+            "Rillaboom",
+            "Tornadus",
+            "Urshifu"
+        ],
+        "lead_yo": [
+            "Iron Hands",
+            "Amoonguss"
+        ],
+        "lead_oponente": [
+            "Pelipper",
+            "Gastrodon-East"
+        ],
+        "resultado": "Victoria"
+    },
+    {
+        "yo": "kebabsinqueso",
+        "oponente": "AndrewTheButtHole",
+        "rating_anterior_yo": 1084,
+        "rating_posterior_yo": 1057,
+        "rating_anterior_oponente": 1011,
+        "rating_posterior_oponente": 1057,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Chi-Yu",
+            "Electrode-Hisui",
+            "Flutter Mane",
+            "Landorus",
+            "Noivern",
+            "Urshifu"
+        ],
+        "lead_yo": [
+            "Iron Hands",
+            "Amoonguss"
+        ],
+        "lead_oponente": [
+            "Noivern",
+            "Electrode-Hisui"
         ],
         "resultado": "Derrota"
     },
     {
-        "yo": "edwqrqtgf",
-        "oponente": "ramirok0",
-        "rating_anterior_yo": 1000,
-        "rating_posterior_yo": 1000,
+        "yo": "kebabsinqueso",
+        "oponente": "LuisD1936",
+        "rating_anterior_yo": 1057,
+        "rating_posterior_yo": 1087,
+        "rating_anterior_oponente": 1041,
+        "rating_posterior_oponente": 1026,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Flutter Mane",
+            "Iron Bundle",
+            "Iron Hands",
+            "Rillaboom",
+            "Tornadus",
+            "Urshifu"
+        ],
+        "lead_yo": [
+            "Iron Hands",
+            "Amoonguss"
+        ],
+        "lead_oponente": [
+            "Iron Bundle",
+            "Flutter Mane"
+        ],
+        "resultado": "Victoria"
+    },
+    {
+        "yo": "kebabsinqueso",
+        "oponente": "IloveEsme",
+        "rating_anterior_yo": 1087,
+        "rating_posterior_yo": 1107,
         "rating_anterior_oponente": 1000,
-        "rating_posterior_oponente": 1040,
+        "rating_posterior_oponente": 1000,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Goodra-Hisui",
+            "Greninja",
+            "Hawlucha",
+            "Noivern",
+            "Pikachu",
+            "Talonflame"
+        ],
+        "lead_yo": [
+            "Iron Hands",
+            "Amoonguss"
+        ],
+        "lead_oponente": [
+            "Talonflame",
+            "Noivern"
+        ],
+        "resultado": "Victoria"
+    },
+    {
+        "yo": "kebabsinqueso",
+        "oponente": "KillerGrapefruit01",
+        "rating_anterior_yo": 1107,
+        "rating_posterior_yo": 1128,
+        "rating_anterior_oponente": 1054,
+        "rating_posterior_oponente": 1039,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Flutter Mane",
+            "Goodra-Hisui",
+            "Landorus-Therian",
+            "Lumineon",
+            "Rillaboom",
+            "Salazzle"
+        ],
+        "lead_yo": [
+            "Iron Hands",
+            "Amoonguss"
+        ],
+        "lead_oponente": [
+            "Landorus-Therian",
+            "Goodra-Hisui"
+        ],
+        "resultado": "Victoria"
+    },
+    {
+        "yo": "",
+        "oponente": "",
+        "rating_anterior_yo": 1128,
+        "rating_posterior_yo": 1111,
+        "rating_anterior_oponente": 1239,
+        "rating_posterior_oponente": 1256,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Armarouge",
+            "Flutter Mane",
+            "Indeedee-F",
+            "Landorus-Therian",
+            "Lycanroc",
+            "Tyranitar"
+        ],
+        "lead_yo": [
+            "Chien-Pao",
+            "Amoonguss"
+        ],
+        "lead_oponente": [
+            "Lycanroc",
+            "Tyranitar"
+        ],
+        "resultado": "Derrota"
+    },
+    {
+        "yo": "kebabsinqueso",
+        "oponente": "AngelilloVGC",
+        "rating_anterior_yo": 1111,
+        "rating_posterior_yo": 1137,
+        "rating_anterior_oponente": 1122,
+        "rating_posterior_oponente": 1096,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Grimmsnarl",
+            "Heatran",
+            "Rillaboom",
+            "Salamence",
+            "Sneasler",
+            "Zapdos"
+        ],
+        "lead_yo": [
+            "Flutter Mane",
+            "Chien-Pao"
+        ],
+        "lead_oponente": [
+            "Grimmsnarl",
+            "Rillaboom"
+        ],
+        "resultado": "Victoria"
+    },
+    {
+        "yo": "kebabsinqueso",
+        "oponente": "Mintymate",
+        "rating_anterior_yo": 1137,
+        "rating_posterior_yo": 1158,
+        "rating_anterior_oponente": 1088,
+        "rating_posterior_oponente": 1068,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Dragonite",
+            "Klefki",
+            "Tornadus",
+            "Ursaluna",
+            "Urshifu",
+            "Zoroark-Hisui"
+        ],
+        "lead_yo": [
+            "Iron Hands",
+            "Amoonguss"
+        ],
+        "lead_oponente": [
+            "Dragonite",
+            "Klefki"
+        ],
+        "resultado": "Victoria"
+    },
+    {
+        "yo": "",
+        "oponente": "",
+        "rating_anterior_yo": 1158,
+        "rating_posterior_yo": 1181,
+        "rating_anterior_oponente": 1126,
+        "rating_posterior_oponente": 1103,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Abomasnow",
+            "Arboliva",
+            "Cacturne",
+            "Heatran",
+            "Spiritomb",
+            "Urshifu"
+        ],
+        "lead_yo": [
+            "Iron Hands",
+            "Amoonguss"
+        ],
+        "lead_oponente": [
+            "Spiritomb",
+            "Cacturne"
+        ],
+        "resultado": "Victoria"
+    },
+    {
+        "yo": "kebabsinqueso",
+        "oponente": "Dragagoat2",
+        "rating_anterior_yo": 1181,
+        "rating_posterior_yo": 1201,
+        "rating_anterior_oponente": 1110,
+        "rating_posterior_oponente": 1090,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Iron Bundle",
+            "Kleavor",
+            "Pelipper",
+            "Perrserker",
+            "Regieleki",
+            "Scizor"
+        ],
+        "lead_yo": [
+            "Amoonguss",
+            "Iron Hands"
+        ],
+        "lead_oponente": [
+            "Kleavor",
+            "Iron Bundle"
+        ],
+        "resultado": "Victoria"
+    },
+    {
+        "yo": "",
+        "oponente": "",
+        "rating_anterior_yo": 1201,
+        "rating_posterior_yo": 1232,
+        "rating_anterior_oponente": 1292,
+        "rating_posterior_oponente": 1261,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Chi-Yu",
+            "Chien-Pao",
+            "Dragonite",
+            "Flutter Mane",
+            "Gholdengo",
+            "Murkrow"
+        ],
+        "lead_yo": [
+            "Flutter Mane",
+            "Amoonguss"
+        ],
+        "lead_oponente": [
+            "Murkrow",
+            "Chi-Yu"
+        ],
+        "resultado": "Victoria"
+    },
+    {
+        "yo": "kebabsinqueso",
+        "oponente": "HorrorOfWars",
+        "rating_anterior_yo": 1232,
+        "rating_posterior_yo": 1213,
+        "rating_anterior_oponente": 1312,
+        "rating_posterior_oponente": 1327,
         "pokemons_yo": [
             "Amoonguss",
             "Chien-Pao",
@@ -84,7 +414,106 @@
             "Amoonguss",
             "Chi-Yu",
             "Flutter Mane",
-            "Regidrago",
+            "Gholdengo",
+            "Landorus-Therian",
+            "Tornadus"
+        ],
+        "lead_yo": [
+            "Iron Hands",
+            "Amoonguss"
+        ],
+        "lead_oponente": [
+            "Flutter Mane",
+            "Chi-Yu"
+        ],
+        "resultado": "Derrota"
+    },
+    {
+        "yo": "kebabsinqueso",
+        "oponente": "notSeroGreen",
+        "rating_anterior_yo": 1213,
+        "rating_posterior_yo": 1243,
+        "rating_anterior_oponente": 1287,
+        "rating_posterior_oponente": 1257,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Amoonguss",
+            "Azumarill",
+            "Goodra-Hisui",
+            "Thundurus",
+            "Typhlosion-Hisui",
+            "Urshifu"
+        ],
+        "lead_yo": [
+            "Chien-Pao",
+            "Amoonguss"
+        ],
+        "lead_oponente": [
+            "Amoonguss",
+            "Goodra-Hisui"
+        ],
+        "resultado": "Victoria"
+    },
+    {
+        "yo": "",
+        "oponente": "",
+        "rating_anterior_yo": 1243,
+        "rating_posterior_yo": 1226,
+        "rating_anterior_oponente": 1364,
+        "rating_posterior_oponente": 1377,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Armarouge",
+            "Hatterene",
+            "Indeedee-F",
+            "Lilligant-Hisui",
+            "Torkoal",
+            "Ursaluna"
+        ],
+        "lead_yo": [
+            "Amoonguss",
+            "Chien-Pao"
+        ],
+        "lead_oponente": [
+            "Torkoal",
+            "Lilligant-Hisui"
+        ],
+        "resultado": "Derrota"
+    },
+    {
+        "yo": "kebabsinqueso",
+        "oponente": "Sailsun",
+        "rating_anterior_yo": 1226,
+        "rating_posterior_yo": 1252,
+        "rating_anterior_oponente": 1233,
+        "rating_posterior_oponente": 1207,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Brambleghast",
+            "Chi-Yu",
+            "Flutter Mane",
+            "Gholdengo",
             "Tornadus",
             "Urshifu"
         ],
@@ -94,8 +523,8 @@
         ],
         "lead_oponente": [
             "Tornadus",
-            "Chi-Yu"
+            "Flutter Mane"
         ],
-        "resultado": "Derrota"
+        "resultado": "Victoria"
     }
 ]

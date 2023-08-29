@@ -1,194 +1,2240 @@
 
 --- Combate ---
-☆edwqrqtgf and ☆ramirok0 joined
+☆kebabsinqueso and ☆weempoweebly joined
 Format: [Gen 9] VGC 2023 Regulation D
 Rated battle
 Species Clause: Limit one of each Pokémon
 Item Clause: Limit one of each item
-edwqrqtgf's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
-ramirok0's team: Tornadus / Urshifu-* / Chi-Yu / Flutter Mane / Regidrago / Amoonguss
-Battle timer is ON: inactive players will automatically lose when time's up. (requested by edwqrqtgf)
-ramirok0 has 60 seconds left.
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+weempoweebly's team: Sneasler / Indeedee-F / Tornadus / Basculegion / Amoonguss / Chi-Yu
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by weempoweebly)
+kebabsinqueso also wants the timer to be on.
+kebabsinqueso has 60 seconds left.
 
-Battle started between edwqrqtgf and ramirok0!
+Battle started between kebabsinqueso and weempoweebly!
 
 Go! Iron Hands!
 
 Go! Amoonguss!
 
-ramirok0 sent out Tornadus!
+weempoweebly sent out Sneasler!
 
-ramirok0 sent out Chi-Yu!
-[The opposing Chi-Yu's Beads of Ruin]The opposing Chi-Yu's Beads of Ruin weakened the Sp. Def of all surrounding Pokémon!
+weempoweebly sent out Indeedee (Indeedee-F)!
+[The opposing Indeedee's Psychic Surge]The battlefield got weird!
+(The opposing Sneasler used its Psychic Seed!)
+The Psychic Seed raised the opposing Sneasler's Sp. Def!
 
 
-The opposing Chi-Yu used Protect!
-The opposing Chi-Yu protected itself!
+The opposing Sneasler has Terastallized into the Rock-type!
+
+The opposing Sneasler used Rock Slide!
+Iron Hands avoided the attack!
+Amoonguss avoided the attack!
+
+The opposing Indeedee used Psychic!
+It's super effective!
+(Amoonguss lost 66.7% of its health!)
+(Amoonguss ate its Sitrus Berry!)
+Amoonguss restored HP using its Sitrus Berry!
+
+Iron Hands used Wild Charge!
+(The opposing Sneasler lost 70% of its health!)
+Iron Hands was damaged by the recoil!
+
+Amoonguss used Spore!
+The opposing Sneasler fell asleep!
+
+
+Amoonguss, come back!
+Go! Chien-Pao!
+[Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
+
+The opposing Sneasler is fast asleep.
+
+The opposing Indeedee used Psychic!
+It doesn't affect Chien-Pao...
+
+Iron Hands used Drain Punch!
+It's super effective!
+(The opposing Sneasler lost 30% of its health!)
+The opposing Sneasler had its energy drained!
+
+The opposing Sneasler fainted!
+
+weempoweebly forfeited.
+
+kebabsinqueso won the battle!
+Register an account to protect your ladder rating!Register
+Register an account to protect your ladder rating!Register
+kebabsinqueso's rating: 1000 → 1052(+52 for winning)
+weempoweebly's rating: 1103 → 1071(-32 for losing)
+☆weempoweebly left
+
+--- Combate ---
+☆Frostburg and ☆kebabsinqueso joined
+Format: [Gen 9] VGC 2023 Regulation D
+Rated battle
+Species Clause: Limit one of each Pokémon
+Item Clause: Limit one of each item
+Frostburg's team: Basculegion-F / Pelipper / Urshifu-* / Gastrodon-East / Rillaboom / Tornadus
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by kebabsinqueso)
+Frostburg also wants the timer to be on.
+kebabsinqueso has agreed to open team sheets.
+
+Battle started between Frostburg and kebabsinqueso!
+
+Frostburg sent out Pelipper!
+
+Frostburg sent out Gastrodon (Gastrodon-East)!
+
+Go! Iron Hands!
+
+Go! Amoonguss!
+[The opposing Pelipper's Drizzle]It started to rain!
+
 
 Amoonguss used Protect!
 Amoonguss protected itself!
 
-The opposing Tornadus used Taunt!
+The opposing Pelipper used Surf!
 Amoonguss protected itself!
+[The opposing Gastrodon's Storm Drain]
+The opposing Gastrodon's Sp. Atk rose!
+(Iron Hands lost 26.4% of its health!)
 
 Iron Hands used Wild Charge!
 It's super effective!
-(The opposing Tornadus lost 100% of its health!)
-
-The opposing Tornadus fainted!
+The opposing Pelipper hung on using its Focus Sash!
+(The opposing Pelipper lost 99% of its health!)
 Iron Hands was damaged by the recoil!
 
-ramirok0 sent out Flutter Mane!
+The opposing Gastrodon used Muddy Water!
+Amoonguss protected itself!
+(Iron Hands lost 25.1% of its health!)
+
+(Rain continues to fall.)
 
 
-Amoonguss has Terastallized into the Water-type!
+Iron Hands used Volt Switch!
+It's super effective!
+(The opposing Pelipper lost 1% of its health!)
 
-The opposing Flutter Mane used Dazzling Gleam!
-It's super effective on Iron Hands!
-(Iron Hands lost 56.1% of its health!)
-(Amoonguss lost 45.7% of its health!)
+The opposing Pelipper fainted!
 
-The opposing Chi-Yu used Heat Wave!
-A critical hit on Iron Hands!
+Iron Hands went back to kebabsinqueso!
+Go! Flutter Mane!
+
+The opposing Gastrodon used Muddy Water!
+Flutter Mane avoided the attack!
 It's not very effective on Amoonguss.
-A critical hit on Amoonguss!
-(Iron Hands lost 24.3% of its health!)
-(Amoonguss lost 41.1% of its health!)
-Amoonguss was burned!
+(Amoonguss lost 19.2% of its health!)
+
+Amoonguss used Spore!
+The opposing Gastrodon fell asleep!
+
+(Rain continues to fall.)
+
+Frostburg sent out Urshifu (Urshifu-Rapid-Strike)!
+
+
+Flutter Mane has Terastallized into the Grass-type!
+
+Amoonguss used Rage Powder!
+Amoonguss became the center of attention!
+
+The opposing Urshifu used Surging Strikes!
+It's not very effective...
+A critical hit!
+(Amoonguss lost 12.3% of its health!)
+It's not very effective...
+A critical hit!
+(Amoonguss lost 12.3% of its health!)
+It's not very effective...
+A critical hit!
+(Amoonguss lost 12.3% of its health!)
+(Amoonguss ate its Sitrus Berry!)
+Amoonguss restored HP using its Sitrus Berry!
+The Pokémon was hit 3 times!
+
+Flutter Mane used Energy Ball!
+It's super effective!
+(The opposing Urshifu lost 100% of its health!)
+
+The opposing Urshifu fainted!
+The opposing Gastrodon is fast asleep.
+
+(Rain continues to fall.)
+
+Frostburg sent out Basculegion (Basculegion-F)!
+
+
+Amoonguss used Rage Powder!
+Amoonguss became the center of attention!
+
+The opposing Basculegion used Blizzard!
+It's super effective on Flutter Mane!
+A critical hit on Flutter Mane!
+It's super effective on Amoonguss!
+(Flutter Mane lost 98.7% of its health!)
+(Amoonguss lost 63.9% of its health!)
+
+Flutter Mane used Energy Ball!
+It's super effective!
+(The opposing Gastrodon lost 100% of its health!)
+
+The opposing Gastrodon fainted!
+
+(Rain continues to fall.)
+
+
+Flutter Mane, come back!
+Go! Iron Hands!
+
+Amoonguss used Protect!
+Amoonguss protected itself!
+
+The opposing Basculegion used Blizzard!
+Amoonguss protected itself!
+(Iron Hands lost 19.2% of its health!)
+
+The rain stopped.
+
+
+The opposing Basculegion used Blizzard!
+Iron Hands avoided the attack!
+It's super effective on Amoonguss!
+(Amoonguss lost 4.6% of its health!)
+
+Amoonguss fainted!
+Iron Hands used Wild Charge!
+It's super effective!
+(The opposing Basculegion lost 100% of its health!)
+
+The opposing Basculegion fainted!
+Iron Hands was damaged by the recoil!
+
+Iron Hands fainted!
+
+kebabsinqueso won the battle!
+Register an account to protect your ladder rating!Register
+Register an account to protect your ladder rating!Register
+Frostburg's rating: 1049 → 1032(-17 for losing)
+kebabsinqueso's rating: 1052 → 1084(+32 for winning)
+☆Frostburg left
+
+--- Combate ---
+☆kebabsinqueso and ☆AndrewTheButtHole joined
+Format: [Gen 9] VGC 2023 Regulation D
+Rated battle
+Species Clause: Limit one of each Pokémon
+Item Clause: Limit one of each item
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+AndrewTheButtHole's team: Noivern / Electrode-Hisui / Landorus / Urshifu-* / Chi-Yu / Flutter Mane
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by kebabsinqueso)
+AndrewTheButtHole rejected open team sheets.
+
+Battle started between kebabsinqueso and AndrewTheButtHole!
+
+Go! Iron Hands!
+
+Go! Amoonguss!
+
+AndrewTheButtHole sent out Noivern!
+
+AndrewTheButtHole sent out Electrode (Electrode-Hisui)!
+
+
+Amoonguss used Protect!
+Amoonguss protected itself!
+
+The opposing Noivern used Boomburst!
+Amoonguss protected itself!
+[The opposing Electrode's Soundproof]It doesn't affect the opposing Electrode...
+(Iron Hands lost 16.7% of its health!)
+
+The opposing Electrode used Discharge!
+Amoonguss protected itself!
+[The opposing Noivern's Telepathy]The opposing Noivern can't be hit by attacks from its ally Pokémon!
+It's not very effective on Iron Hands.
+(Iron Hands lost 8.8% of its health!)
+
+Iron Hands used Wild Charge!
+(The opposing Noivern lost 62% of its health!)
+Iron Hands was damaged by the recoil!
+
+
+The opposing Noivern used Taunt!
+Amoonguss fell for the taunt!
+
+The opposing Electrode used Discharge!
+[The opposing Noivern's Telepathy]The opposing Noivern can't be hit by attacks from its ally Pokémon!
+It's not very effective on Iron Hands.
+It's not very effective on Amoonguss.
+(Iron Hands lost 8.8% of its health!)
+(Amoonguss lost 16.9% of its health!)
+Amoonguss is paralyzed! It may be unable to move!
+
+Iron Hands used Drain Punch!
+(The opposing Electrode lost 55% of its health!)
+The opposing Electrode had its energy drained!
+
+Amoonguss can't use Spore after the taunt!
+
+AndrewTheButtHole has 30 seconds left.
+
+AndrewTheButtHole withdrew Electrode!
+AndrewTheButtHole sent out Landorus!
+
+The opposing Noivern used Tailwind!
+The Tailwind blew from behind the opposing team!
+
+Iron Hands used Drain Punch!
+It's not very effective...
+(The opposing Landorus lost 26% of its health!)
+The opposing Landorus had its energy drained!
+
+Amoonguss used Pollen Puff!
+Iron Hands had its HP restored.
+
+AndrewTheButtHole has 30 seconds left.
+
+The opposing Noivern used Protect!
+The opposing Noivern protected itself!
+
+The opposing Landorus used Sandsear Storm!
+Iron Hands avoided the attack!
+(Amoonguss lost 55.3% of its health!)
 (Amoonguss ate its Sitrus Berry!)
 Amoonguss restored HP using its Sitrus Berry!
 
-Iron Hands fainted!
-The opposing Chi-Yu lost some of its HP!
+Iron Hands used Wild Charge!
+The opposing Noivern protected itself!
 
-Amoonguss used Spore!
-The opposing Flutter Mane fell asleep!
+Amoonguss used Pollen Puff!
+It doesn't affect Iron Hands...
 
-Amoonguss was hurt by its burn!
-
-Go! Flutter Mane!
+Amoonguss shook off the taunt!
 
 
-ramirok0 withdrew Flutter Mane!
-ramirok0 sent out Amoonguss!
+Amoonguss is paralyzed! It can't move!
+
+The opposing Noivern used Taunt!
+Amoonguss fell for the taunt!
+
+The opposing Landorus used Sandsear Storm!
+It's super effective on Iron Hands!
+(Iron Hands lost 61.9% of its health!)
+(Amoonguss lost 49.8% of its health!)
+
+Iron Hands used Wild Charge!
+(The opposing Noivern lost 38% of its health!)
+
+The opposing Noivern fainted!
+Iron Hands was damaged by the recoil!
+
+AndrewTheButtHole sent out Chi-Yu!
+[The opposing Chi-Yu's Beads of Ruin]The opposing Chi-Yu's Beads of Ruin weakened the Sp. Def of all surrounding Pokémon!
+
+
+The opposing Landorus used Protect!
+The opposing Landorus protected itself!
 
 The opposing Chi-Yu used Protect!
 The opposing Chi-Yu protected itself!
 
-Flutter Mane used Shadow Ball!
-(The opposing Amoonguss lost 70% of its health!)
-
-Amoonguss used Spore!
+Iron Hands used Drain Punch!
 The opposing Chi-Yu protected itself!
 
-Amoonguss was hurt by its burn!
+Amoonguss is paralyzed! It can't move!
 
-ramirok0 has 30 seconds left.
+The opposing team's Tailwind petered out!
 
-The opposing Amoonguss used Protect!
-The opposing Amoonguss protected itself!
 
-Flutter Mane used Shadow Ball!
-The opposing Amoonguss protected itself!
+The opposing Landorus used Sludge Bomb!
+(Iron Hands lost 31.8% of its health!)
+
+Iron Hands fainted!
 
 The opposing Chi-Yu used Heat Wave!
-It's not very effective on Amoonguss.
-(Flutter Mane lost 61.7% of its health!)
-(Amoonguss lost 26.0% of its health!)
+It's super effective!
+(Amoonguss lost 2.7% of its health!)
 
 Amoonguss fainted!
-The opposing Chi-Yu lost some of its HP!
+
+Go! Chien-Pao!
+
+Go! Urshifu (Urshifu-Rapid-Strike)!
+[Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
+
+AndrewTheButtHole has 30 seconds left.
+
+The opposing Landorus has Terastallized into the Electric-type!
+
+Urshifu has Terastallized into the Water-type!
+
+Chien-Pao used Icicle Crash!
+(The opposing Landorus lost 61% of its health!)
+
+The opposing Landorus used Tera Blast!
+It's super effective!
+(Urshifu lost 100% of its health!)
+
+Urshifu fainted!
+The opposing Landorus lost some of its HP!
+
+The opposing Chi-Yu used Heat Wave!
+It's super effective!
+Chien-Pao hung on using its Focus Sash!
+(Chien-Pao lost 99.4% of its health!)
+
+
+Chien-Pao used Sucker Punch!
+(The opposing Landorus lost 3% of its health!)
+
+The opposing Landorus fainted!
+The opposing Chi-Yu used Dark Pulse!
+It's not very effective...
+(Chien-Pao lost 0.6% of its health!)
+
+Chien-Pao fainted!
+
+AndrewTheButtHole won the battle!
+kebabsinqueso's rating: 1084 → 1057(-27 for losing)
+AndrewTheButtHole's rating: 1011 → 1057(+46 for winning)
+
+--- Combate ---
+☆kebabsinqueso and ☆LuisD1936 joined
+Format: [Gen 9] VGC 2023 Regulation D
+Rated battle
+Species Clause: Limit one of each Pokémon
+Item Clause: Limit one of each item
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+LuisD1936's team: Tornadus / Urshifu-* / Iron Hands / Flutter Mane / Iron Bundle / Rillaboom
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by kebabsinqueso)
+
+Battle started between kebabsinqueso and LuisD1936!
+
+Go! Iron Hands!
+
+Go! Amoonguss!
+
+LuisD1936 sent out Iron Bundle!
+
+LuisD1936 sent out Flutter Mane!
+
+
+The opposing Iron Bundle used Ice Beam!
+It's super effective!
+(Amoonguss lost 82.2% of its health!)
+(Amoonguss ate its Sitrus Berry!)
+Amoonguss restored HP using its Sitrus Berry!
+
+The opposing Flutter Mane used Mystical Fire!
+It's super effective!
+(Amoonguss lost 42.5% of its health!)
+
+Amoonguss fainted!
+Iron Hands used Wild Charge!
+(The opposing Flutter Mane lost 97% of its health!)
+Iron Hands was damaged by the recoil!
 
 Go! Chien-Pao!
 [Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
 
 
-The opposing Amoonguss used Rage Powder!
-The opposing Amoonguss became the center of attention!
+Chien-Pao used Protect!
+Chien-Pao protected itself!
 
-Chien-Pao used Sacred Sword!
-It's not very effective...
-(The opposing Amoonguss lost 16% of its health!)
-Chien-Pao was hurt by the Rocky Helmet!
+The opposing Iron Bundle used Icy Wind!
+Chien-Pao protected itself!
+(Iron Hands lost 10.5% of its health!)
+Iron Hands's Speed fell!
 
-Flutter Mane used Shadow Ball!
-(The opposing Amoonguss lost 14% of its health!)
+The opposing Flutter Mane used Mystical Fire!
+Chien-Pao protected itself!
 
-The opposing Amoonguss fainted!
-The opposing Chi-Yu used Heat Wave!
-It's super effective on Chien-Pao!
-(Flutter Mane lost 38.3% of its health!)
-(Chien-Pao lost 83.3% of its health!)
+Iron Hands used Volt Switch!
+(The opposing Flutter Mane lost 3% of its health!)
 
-Flutter Mane fainted!
+The opposing Flutter Mane fainted!
+
+Iron Hands went back to kebabsinqueso!
+Go! Flutter Mane!
+
+LuisD1936 sent out Tornadus!
+
+
+The opposing Tornadus used Tailwind!
+The Tailwind blew from behind the opposing team!
+
+The opposing Iron Bundle used Icy Wind!
+It's not very effective on Chien-Pao.
+(Flutter Mane lost 20.1% of its health!)
+(Chien-Pao lost 16.7% of its health!)
+Flutter Mane's Speed fell!
+Chien-Pao's Speed fell!
+
+Chien-Pao used Icicle Crash!
+It's super effective!
+(The opposing Tornadus lost 100% of its health!)
+
+The opposing Tornadus fainted!
+Flutter Mane used Dazzling Gleam!
+A critical hit!
+The opposing Iron Bundle hung on using its Focus Sash!
+(The opposing Iron Bundle lost 99% of its health!)
+
+LuisD1936 sent out Urshifu (Urshifu-Rapid-Strike)!
+
+
+The opposing Urshifu has Terastallized into the Water-type!
+
+Flutter Mane has Terastallized into the Grass-type!
+
+Chien-Pao used Sucker Punch!
+(The opposing Iron Bundle lost 1% of its health!)
+
+The opposing Iron Bundle fainted!
+
+The opposing Urshifu used Surging Strikes!
+A critical hit!
+(Chien-Pao lost 48.7% of its health!)
+A critical hit!
+(Chien-Pao lost 34.6% of its health!)
 
 Chien-Pao fainted!
-The opposing Chi-Yu lost some of its HP!
+The Pokémon was hit 2 times!
 
-ramirok0 won the battle!
-edwqrqtgf's rating: 1000 → 1000(+0 for losing)
-ramirok0's rating: 1000 → 1040(+40 for winning)
-☆ramirok0 left
+Flutter Mane used Dazzling Gleam!
+(The opposing Urshifu lost 92% of its health!)
+
+Go! Iron Hands!
+
+
+Iron Hands used Fake Out!
+(The opposing Urshifu lost 8% of its health!)
+
+The opposing Urshifu fainted!
+
+kebabsinqueso won the battle!
+Register an account to protect your ladder rating!Register
+Register an account to protect your ladder rating!Register
+kebabsinqueso's rating: 1057 → 1087(+30 for winning)
+LuisD1936's rating: 1041 → 1026(-15 for losing)
+☆LuisD1936 left
 
 --- Combate ---
-☆drizziworking and ☆edwqrqtgf joined
+☆IloveEsme and ☆kebabsinqueso joined
 Format: [Gen 9] VGC 2023 Regulation D
 Rated battle
 Species Clause: Limit one of each Pokémon
 Item Clause: Limit one of each item
-drizziworking's team: Thundurus / Iron Bundle / Sneasler / Raichu-Alola / Great Tusk / Chi-Yu
-edwqrqtgf's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
-Battle timer is ON: inactive players will automatically lose when time's up. (requested by edwqrqtgf)
-drizziworking has 60 seconds left.
+IloveEsme's team: Pikachu / Goodra-Hisui / Greninja-* / Hawlucha / Talonflame / Noivern
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by kebabsinqueso)
+IloveEsme has 60 seconds left.
 
-Battle started between drizziworking and edwqrqtgf!
+Battle started between IloveEsme and kebabsinqueso!
 
-drizziworking sent out Thundurus!
+IloveEsme sent out Talonflame!
 
-drizziworking sent out Sneasler!
+IloveEsme sent out Noivern!
+
+Go! Iron Hands!
+
+Go! Amoonguss!
+[The opposing Noivern's Frisk]The opposing Noivern frisked Iron Hands and found its Assault Vest!
+[The opposing Noivern's Frisk]The opposing Noivern frisked Amoonguss and found its Sitrus Berry!
+
+
+The opposing Talonflame has Terastallized into the Ghost-type!
+
+Amoonguss used Protect!
+Amoonguss protected itself!
+
+The opposing Talonflame used Taunt!
+Amoonguss protected itself!
+
+The opposing Noivern used Heat Wave!
+Amoonguss protected itself!
+(Iron Hands lost 16.3% of its health!)
+
+Iron Hands used Wild Charge!
+(The opposing Talonflame lost 70% of its health!)
+Iron Hands was damaged by the recoil!
+The opposing Talonflame is switched out with the Eject Button!
+
+IloveEsme withdrew Talonflame!
+IloveEsme sent out Greninja!
+
+
+The opposing Greninja used Extrasensory!
+
+[The opposing Greninja's Protean]The opposing Greninja's type changed to Psychic!
+It's super effective!
+(Iron Hands lost 43.5% of its health!)
+The opposing Greninja lost some of its HP!
+
+The opposing Noivern used Heat Wave!
+Amoonguss avoided the attack!
+(Iron Hands lost 15.5% of its health!)
+
+Iron Hands used Drain Punch!
+It's not very effective...
+(The opposing Greninja lost 33% of its health!)
+The opposing Greninja had its energy drained!
+
+Amoonguss used Spore!
+The opposing Noivern fell asleep!
+
+
+Iron Hands, come back!
+Go! Chien-Pao!
+[Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
+
+The opposing Greninja used Extrasensory!
+It's super effective!
+(Amoonguss lost 83.1% of its health!)
+(Amoonguss ate its Sitrus Berry!)
+Amoonguss restored HP using its Sitrus Berry!
+The opposing Greninja lost some of its HP!
+
+The opposing Noivern is fast asleep.
+
+Amoonguss used Spore!
+The opposing Greninja fell asleep!
+
+
+Amoonguss, come back!
+Go! Iron Hands!
+
+The opposing Greninja is fast asleep.
+
+Chien-Pao used Icicle Crash!
+The opposing Noivern avoided the attack!
+
+The opposing Noivern is fast asleep.
+
+kebabsinqueso has 30 seconds left.
+
+Iron Hands used Fake Out!
+(The opposing Greninja lost 34% of its health!)
+
+The opposing Greninja is fast asleep.
+
+Chien-Pao used Icicle Crash!
+It's super effective!
+(The opposing Noivern lost 100% of its health!)
+
+The opposing Noivern fainted!
+
+IloveEsme sent out Talonflame!
+
+
+Chien-Pao used Sucker Punch!
+But it failed!
+The opposing Greninja woke up!
+
+The opposing Greninja used Water Shuriken!
+(Chien-Pao lost 10.9% of its health!)
+(Chien-Pao lost 10.9% of its health!)
+(Chien-Pao lost 10.3% of its health!)
+(Chien-Pao lost 10.3% of its health!)
+(Chien-Pao lost 11.5% of its health!)
+The Pokémon was hit 5 times!
+The opposing Greninja lost some of its HP!
+
+The opposing Talonflame used Will-O-Wisp!
+Iron Hands was burned!
+
+Iron Hands used Volt Switch!
+(The opposing Greninja lost 5% of its health!)
+
+The opposing Greninja fainted!
+
+Iron Hands went back to kebabsinqueso!
+Go! Amoonguss!
+
+IloveEsme sent out Goodra (Goodra-Hisui)!
+
+kebabsinqueso has 30 seconds left.
+
+Chien-Pao used Protect!
+Chien-Pao protected itself!
+
+The opposing Talonflame used Taunt!
+Amoonguss fell for the taunt!
+
+The opposing Goodra used Body Press!
+Chien-Pao protected itself!
+
+Amoonguss can't use Spore after the taunt!
+
+
+Chien-Pao, come back!
+Go! Iron Hands!
+
+The opposing Talonflame used Tailwind!
+The Tailwind blew from behind the opposing team!
+
+The opposing Goodra used Body Press!
+(Iron Hands lost 19.2% of its health!)
+
+Amoonguss used Pollen Puff!
+It's not very effective...
+(The opposing Talonflame lost 15% of its health!)
+
+Iron Hands was hurt by its burn!
+
+Iron Hands fainted!
+
+Go! Chien-Pao!
+[Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
+
+
+Chien-Pao used Protect!
+Chien-Pao protected itself!
+
+The opposing Talonflame used Air Slash!
+It's super effective!
+(Amoonguss lost 50.2% of its health!)
+
+The opposing Goodra used Stomping Tantrum!
+(Amoonguss lost 19.2% of its health!)
+
+Amoonguss flinched and couldn't move!
+
+Amoonguss shook off the taunt!
+
+
+Amoonguss used Rage Powder!
+Amoonguss became the center of attention!
+
+Chien-Pao used Sucker Punch!
+But it failed!
+
+The opposing Talonflame used Will-O-Wisp!
+Amoonguss was burned!
+
+The opposing Goodra used Stomping Tantrum!
+(Amoonguss lost 5.5% of its health!)
+
+Amoonguss fainted!
+
+Go! Flutter Mane!
+
+
+Flutter Mane has Terastallized into the Grass-type!
+
+Chien-Pao used Sucker Punch!
+But it failed!
+
+The opposing Talonflame used Will-O-Wisp!
+Flutter Mane was burned!
+
+Flutter Mane used Moonblast!
+(The opposing Talonflame lost 15% of its health!)
+
+The opposing Talonflame fainted!
+The opposing Goodra used Stomping Tantrum!
+It's not very effective...
+(Flutter Mane lost 18.2% of its health!)
+
+Flutter Mane was hurt by its burn!
+The opposing team's Tailwind petered out!
+
+
+Chien-Pao used Sacred Sword!
+It's super effective!
+(The opposing Goodra lost 56% of its health!)
+
+Flutter Mane used Moonblast!
+(The opposing Goodra lost 44% of its health!)
+
+The opposing Goodra fainted!
+
+kebabsinqueso won the battle!
+Register an account to protect your ladder rating!Register
+Register an account to protect your ladder rating!Register
+IloveEsme's rating: 1000 → 1000(+0 for losing)
+kebabsinqueso's rating: 1087 → 1107(+20 for winning)
+
+--- Combate ---
+☆kebabsinqueso and ☆KillerGrapefruit01 joined
+Format: [Gen 9] VGC 2023 Regulation D
+Rated battle
+Species Clause: Limit one of each Pokémon
+Item Clause: Limit one of each item
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+KillerGrapefruit01's team: Salazzle / Landorus-Therian / Goodra-Hisui / Rillaboom / Lumineon / Flutter Mane
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by kebabsinqueso)
+kebabsinqueso has 60 seconds left.
+KillerGrapefruit01 has 60 seconds left.
+kebabsinqueso has 30 seconds left.
+KillerGrapefruit01 has 30 seconds left.
+kebabsinqueso has 20 seconds left.
+KillerGrapefruit01 has 20 seconds left.
+kebabsinqueso has 15 seconds left.
+
+Battle started between kebabsinqueso and KillerGrapefruit01!
+
+Go! Iron Hands!
+
+Go! Amoonguss!
+
+KillerGrapefruit01 sent out Landorus (Landorus-Therian)!
+
+KillerGrapefruit01 sent out Goodra (Goodra-Hisui)!
+[The opposing Landorus's Intimidate]
+Iron Hands's Attack fell!
+Amoonguss's Attack fell!
+
+KillerGrapefruit01 has 30 seconds left.
+KillerGrapefruit01 has 20 seconds left.
+KillerGrapefruit01 has 15 seconds left.
+KillerGrapefruit01 has 10 seconds left.
+
+Amoonguss used Protect!
+Amoonguss protected itself!
+
+The opposing Landorus used Rock Slide!
+Amoonguss protected itself!
+It's not very effective on Iron Hands.
+A critical hit on Iron Hands!
+(Iron Hands lost 10.9% of its health!)
+
+Iron Hands used Drain Punch!
+It's super effective!
+(The opposing Goodra lost 39% of its health!)
+The opposing Goodra had its energy drained!
+Iron Hands was hurt by the Rocky Helmet!
+
+The opposing Goodra used Shelter!
+The opposing Goodra's Defense rose sharply!
+
+
+The opposing Goodra has Terastallized into the Fairy-type!
+
+The opposing Landorus used Stomping Tantrum!
+(Amoonguss lost 34.2% of its health!)
+
+Iron Hands used Volt Switch!
+(The opposing Goodra lost 9% of its health!)
+
+Iron Hands went back to kebabsinqueso!
+Go! Flutter Mane!
+
+The opposing Goodra used Life Dew!
+The opposing Landorus's HP is full!
+The opposing Goodra had its HP restored.
+
+Amoonguss used Spore!
+The opposing Landorus fell asleep!
+
+
+Amoonguss used Rage Powder!
+Amoonguss became the center of attention!
+
+Flutter Mane used Dazzling Gleam!
+(The opposing Landorus lost 40% of its health!)
+(The opposing Goodra lost 28% of its health!)
+
+The opposing Landorus is fast asleep.
+
+The opposing Goodra used Heavy Slam!
+(Amoonguss lost 34.2% of its health!)
+(Amoonguss ate its Sitrus Berry!)
+Amoonguss restored HP using its Sitrus Berry!
+
+kebabsinqueso has 30 seconds left.
+
+Amoonguss used Rage Powder!
+Amoonguss became the center of attention!
+
+Flutter Mane used Dazzling Gleam!
+(The opposing Landorus lost 46% of its health!)
+(The opposing Goodra lost 26% of its health!)
+
+The opposing Landorus is fast asleep.
+
+The opposing Goodra used Heavy Slam!
+(Amoonguss lost 35.6% of its health!)
+
+
+Amoonguss used Rage Powder!
+Amoonguss became the center of attention!
+
+Flutter Mane used Dazzling Gleam!
+(The opposing Landorus lost 14% of its health!)
+(The opposing Goodra lost 24% of its health!)
+
+The opposing Landorus fainted!
+The opposing Goodra fainted!
+
+KillerGrapefruit01 sent out Rillaboom!
+
+KillerGrapefruit01 sent out Flutter Mane!
+[The opposing Rillaboom's Grassy Surge]Grass grew to cover the battlefield!
+(The opposing Flutter Mane used its Booster Energy!)
+[The opposing Flutter Mane's Protosynthesis]The opposing Flutter Mane used its Booster Energy to activate Protosynthesis!
+The opposing Flutter Mane's Speed was heightened!
+
+
+Flutter Mane, come back!
+Go! Iron Hands!
+
+The opposing Rillaboom used Fake Out!
+(Amoonguss lost 9.1% of its health!)
+
+The opposing Flutter Mane used Shadow Ball!
+(Iron Hands lost 20.5% of its health!)
+
+Amoonguss flinched and couldn't move!
+
+Iron Hands's HP was restored.
+Amoonguss's HP was restored.
+
+
+The opposing Flutter Mane used Dazzling Gleam!
+It's super effective on Iron Hands!
+It's not very effective on Amoonguss.
+A critical hit on Amoonguss!
+(Iron Hands lost 33.5% of its health!)
+(Amoonguss lost 17.4% of its health!)
+
+Amoonguss fainted!
+The opposing Rillaboom used Drum Beating!
+(Iron Hands lost 30.5% of its health!)
+Iron Hands's Speed fell!
+
+Iron Hands used Wild Charge!
+(The opposing Flutter Mane lost 100% of its health!)
+
+The opposing Flutter Mane fainted!
+Iron Hands was damaged by the recoil!
+
+Iron Hands fainted!
+
+Go! Chien-Pao!
+
+Go! Flutter Mane!
+[Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
+
+
+KillerGrapefruit01 forfeited.
+
+kebabsinqueso won the battle!
+Register an account to protect your ladder rating!Register
+Register an account to protect your ladder rating!Register
+kebabsinqueso's rating: 1107 → 1128(+21 for winning)
+KillerGrapefruit01's rating: 1054 → 1039(-15 for losing)
+☆KillerGrapefruit01 left
+
+--- Combate ---
+☆cuong freefire and ☆kebabsinqueso joined
+Format: [Gen 9] VGC 2023 Regulation D
+Rated battle
+Species Clause: Limit one of each Pokémon
+Item Clause: Limit one of each item
+cuong freefire's team: Flutter Mane / Landorus-Therian / Tyranitar / Lycanroc / Indeedee-F / Armarouge
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by kebabsinqueso)
+cuong freefire also wants the timer to be on.
+
+Battle started between cuong freefire and kebabsinqueso!
+
+cuong freefire sent out Lycanroc!
+
+cuong freefire sent out Tyranitar!
+
+Go! Chien-Pao!
+
+Go! Amoonguss!
+[Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
+[The opposing Tyranitar's Sand Stream]A sandstorm kicked up!
+
+
+The opposing Tyranitar has Terastallized into the Flying-type!
+
+Chien-Pao used Protect!
+Chien-Pao protected itself!
+
+The opposing Lycanroc used Rock Slide!
+Chien-Pao protected itself!
+(Amoonguss lost 30.1% of its health!)
+
+The opposing Tyranitar used Tera Blast!
+It's super effective!
+(Amoonguss lost 69.9% of its health!)
+
+Amoonguss fainted!
+
+(The sandstorm is raging.)
+Chien-Pao is buffeted by the sandstorm!
+The opposing Tyranitar is buffeted by the sandstorm!
 
 Go! Urshifu (Urshifu-Rapid-Strike)!
 
-Go! Amoonguss!
+
+Chien-Pao has Terastallized into the Ghost-type!
+
+The opposing Lycanroc used Rock Slide!
+Chien-Pao avoided the attack!
+It's not very effective on Urshifu.
+(Urshifu lost 18.0% of its health!)
+
+Chien-Pao used Icicle Crash!
+It's super effective!
+(The opposing Tyranitar lost 72% of its health!)
+(The opposing Tyranitar used its Weakness Policy!)
+The Weakness Policy sharply raised the opposing Tyranitar's Attack!
+The Weakness Policy sharply raised the opposing Tyranitar's Sp. Atk!
+
+Urshifu used Surging Strikes!
+It's super effective!
+A critical hit!
+The opposing Lycanroc hung on using its Focus Sash!
+(The opposing Lycanroc lost 99% of its health!)
+It's super effective!
+A critical hit!
+(The opposing Lycanroc lost 1% of its health!)
+
+The opposing Lycanroc fainted!
+The Pokémon was hit 2 times!
+
+The opposing Tyranitar used Tera Blast!
+It's super effective!
+A critical hit!
+(Urshifu lost 82.0% of its health!)
+
+Urshifu fainted!
+
+(The sandstorm is raging.)
+Chien-Pao is buffeted by the sandstorm!
+The opposing Tyranitar is buffeted by the sandstorm!
+cuong freefire has 30 seconds left.
+
+cuong freefire sent out Flutter Mane!
+
+Go! Iron Hands!
 
 
-edwqrqtgf forfeited.
+Chien-Pao used Protect!
+Chien-Pao protected itself!
 
-drizziworking won the battle!
-drizziworking's rating: 1042 → 1072(+30 for winning)
-edwqrqtgf's rating: 1000 → 1000(+0 for losing)
+The opposing Flutter Mane used Protect!
+The opposing Flutter Mane protected itself!
+
+The opposing Tyranitar used Protect!
+The opposing Tyranitar protected itself!
+
+Iron Hands used Fake Out!
+The opposing Tyranitar protected itself!
+
+(The sandstorm is raging.)
+Chien-Pao is buffeted by the sandstorm!
+The opposing Flutter Mane is buffeted by the sandstorm!
+Iron Hands is buffeted by the sandstorm!
+The opposing Tyranitar is buffeted by the sandstorm!
+
+
+The opposing Flutter Mane used Moonblast!
+(Chien-Pao lost 82.7% of its health!)
+
+Chien-Pao fainted!
+Iron Hands used Wild Charge!
+It's super effective!
+(The opposing Tyranitar lost 11% of its health!)
+
+The opposing Tyranitar fainted!
+Iron Hands was damaged by the recoil!
+
+(The sandstorm is raging.)
+The opposing Flutter Mane is buffeted by the sandstorm!
+Iron Hands is buffeted by the sandstorm!
+
+cuong freefire sent out Landorus (Landorus-Therian)!
+[The opposing Landorus's Intimidate]
+Iron Hands's Attack fell!
+
+
+kebabsinqueso forfeited.
+
+cuong freefire won the battle!
+cuong freefire's rating: 1239 → 1256(+17 for winning)
+kebabsinqueso's rating: 1128 → 1111(-17 for losing)
 
 --- Combate ---
-☆edwqrqtgf and ☆ramirok0 joined
+☆AngelilloVGC and ☆kebabsinqueso joined
 Format: [Gen 9] VGC 2023 Regulation D
 Rated battle
 Species Clause: Limit one of each Pokémon
 Item Clause: Limit one of each item
-edwqrqtgf's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
-ramirok0's team: Tornadus / Urshifu-* / Chi-Yu / Flutter Mane / Regidrago / Amoonguss
-Battle timer is ON: inactive players will automatically lose when time's up. (requested by edwqrqtgf)
-ramirok0 has 60 seconds left.
+AngelilloVGC's team: Zapdos / Heatran / Rillaboom / Sneasler / Grimmsnarl / Salamence
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by kebabsinqueso)
 
-Battle started between edwqrqtgf and ramirok0!
+Battle started between AngelilloVGC and kebabsinqueso!
+
+AngelilloVGC sent out Grimmsnarl!
+
+AngelilloVGC sent out Rillaboom!
+
+Go! Flutter Mane!
+
+Go! Chien-Pao!
+[Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
+[The opposing Rillaboom's Grassy Surge]Grass grew to cover the battlefield!
+
+kebabsinqueso has 30 seconds left.
+kebabsinqueso has 20 seconds left.
+kebabsinqueso has 15 seconds left.
+kebabsinqueso has 10 seconds left.
+AngelilloVGC has 30 seconds left.
+
+AngelilloVGC withdrew Rillaboom!
+AngelilloVGC sent out Heatran!
+
+The opposing Grimmsnarl used Light Screen!
+Light Screen made the opposing team stronger against special moves!
+
+Chien-Pao used Icicle Crash!
+It's not very effective...
+(The opposing Heatran lost 11% of its health!)
+
+Flutter Mane used Moonblast!
+It's super effective!
+(The opposing Grimmsnarl lost 84% of its health!)
+
+The opposing Heatran's HP was restored.
+The opposing Heatran restored a little HP using its Leftovers!
+The opposing Grimmsnarl's HP was restored.
+
+
+The opposing Heatran used Protect!
+The opposing Heatran protected itself!
+
+The opposing Grimmsnarl used Parting Shot!
+Flutter Mane's Attack fell!
+Flutter Mane's Sp. Atk fell!
+
+The opposing Grimmsnarl went back to AngelilloVGC!
+AngelilloVGC sent out Rillaboom!
+
+Chien-Pao used Sacred Sword!
+The opposing Heatran protected itself!
+
+Flutter Mane used Moonblast!
+A critical hit!
+(The opposing Rillaboom lost 66% of its health!)
+The opposing Rillaboom's Sp. Atk fell!
+
+The opposing Rillaboom's HP was restored.
+
+
+Chien-Pao used Protect!
+Chien-Pao protected itself!
+
+The opposing Rillaboom used Fake Out!
+Chien-Pao protected itself!
+
+Flutter Mane used Moonblast!
+(The opposing Rillaboom lost 22% of its health!)
+
+The opposing Heatran used Heat Wave!
+Chien-Pao protected itself!
+(Flutter Mane lost 37.7% of its health!)
+
+Flutter Mane's HP was restored.
+The opposing Rillaboom's HP was restored.
+
+AngelilloVGC has 30 seconds left.
+kebabsinqueso has 30 seconds left.
+
+Chien-Pao, come back!
+Go! Iron Hands!
+
+The opposing Heatran has Terastallized into the Ghost-type!
+
+Flutter Mane used Moonblast!
+(The opposing Rillaboom lost 20% of its health!)
+
+The opposing Rillaboom used Drum Beating!
+(Flutter Mane lost 68.2% of its health!)
+
+Flutter Mane fainted!
+
+The opposing Heatran used Heat Wave!
+(Iron Hands lost 27.6% of its health!)
+
+The opposing Rillaboom's HP was restored.
+Iron Hands's HP was restored.
+
+Go! Amoonguss!
+
+
+Amoonguss has Terastallized into the Water-type!
+
+The opposing Heatran used Protect!
+The opposing Heatran protected itself!
+
+Iron Hands used Fake Out!
+(The opposing Rillaboom lost 10% of its health!)
+
+The opposing Rillaboom fainted!
+Amoonguss used Spore!
+The opposing Heatran protected itself!
+
+Iron Hands's HP was restored.
+The grass disappeared from the battlefield.
+
+AngelilloVGC sent out Zapdos!
+
+
+The opposing Zapdos used Helping Hand!
+The opposing Zapdos is ready to help the opposing Heatran!
+
+The opposing Heatran used Earth Power!
+It's super effective!
+(Iron Hands lost 48.5% of its health!)
+
+Iron Hands used Wild Charge!
+(The opposing Heatran lost 44% of its health!)
+Iron Hands was damaged by the recoil!
+
+Amoonguss used Spore!
+The opposing Zapdos fell asleep!
+
+The opposing Heatran restored a little HP using its Leftovers!
+
+
+The opposing Heatran used Protect!
+The opposing Heatran protected itself!
+
+The opposing Zapdos is fast asleep.
+
+Iron Hands used Wild Charge!
+(The opposing Zapdos lost 39% of its health!)
+Iron Hands was damaged by the recoil!
+
+Amoonguss used Spore!
+The opposing Heatran protected itself!
+
+The opposing Heatran restored a little HP using its Leftovers!
+
+
+The opposing Zapdos woke up!
+
+The opposing Zapdos used Volt Switch!
+It's super effective!
+(Amoonguss lost 47.5% of its health!)
+
+The opposing Zapdos went back to AngelilloVGC!
+AngelilloVGC sent out Grimmsnarl!
+
+The opposing Heatran used Earth Power!
+(Amoonguss lost 28.3% of its health!)
+(Amoonguss ate its Sitrus Berry!)
+Amoonguss restored HP using its Sitrus Berry!
+
+Iron Hands used Wild Charge!
+(The opposing Heatran lost 41% of its health!)
+Iron Hands was damaged by the recoil!
+
+Amoonguss used Spore!
+The opposing Heatran fell asleep!
+
+The opposing Heatran restored a little HP using its Leftovers!
+The opposing team's Light Screen wore off!
+
+
+AngelilloVGC withdrew Heatran!
+AngelilloVGC sent out Zapdos!
+
+The opposing Grimmsnarl used Reflect!
+Reflect made the opposing team stronger against physical moves!
+
+Iron Hands used Drain Punch!
+(The opposing Grimmsnarl lost 22% of its health!)
+The opposing Grimmsnarl had its energy drained!
+
+The opposing Grimmsnarl fainted!
+Amoonguss used Pollen Puff!
+Iron Hands had its HP restored.
+
+AngelilloVGC sent out Heatran!
+
+
+The opposing Heatran is fast asleep.
+
+Amoonguss used Protect!
+Amoonguss protected itself!
+
+The opposing Zapdos used Volt Switch!
+Amoonguss protected itself!
+
+Iron Hands used Wild Charge!
+(The opposing Heatran lost 28% of its health!)
+Iron Hands was damaged by the recoil!
+
+The opposing Heatran restored a little HP using its Leftovers!
+
+
+The opposing Heatran is fast asleep.
+
+Amoonguss used Rage Powder!
+Amoonguss became the center of attention!
+
+The opposing Zapdos used Volt Switch!
+It's super effective!
+(Amoonguss lost 48.9% of its health!)
+
+Amoonguss fainted!
+Iron Hands used Wild Charge!
+(The opposing Heatran lost 11% of its health!)
+
+The opposing Heatran fainted!
+Iron Hands was damaged by the recoil!
+
+Go! Chien-Pao!
+[Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
+
+
+Chien-Pao used Icicle Crash!
+It's super effective!
+(The opposing Zapdos lost 55% of its health!)
+
+The opposing Zapdos used Volt Switch!
+(Chien-Pao lost 48.1% of its health!)
+
+Iron Hands used Wild Charge!
+(The opposing Zapdos lost 6% of its health!)
+
+The opposing Zapdos fainted!
+Iron Hands was damaged by the recoil!
+
+kebabsinqueso won the battle!
+Register an account to protect your ladder rating!Register
+Register an account to protect your ladder rating!Register
+AngelilloVGC's rating: 1122 → 1096(-26 for losing)
+kebabsinqueso's rating: 1111 → 1137(+26 for winning)
+
+--- Combate ---
+☆Mintymate and ☆kebabsinqueso joined
+Format: [Gen 9] VGC 2023 Regulation D
+Rated battle
+Species Clause: Limit one of each Pokémon
+Item Clause: Limit one of each item
+Mintymate's team: Zoroark-Hisui / Klefki / Tornadus / Ursaluna / Dragonite / Urshifu-*
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by kebabsinqueso)
+Mintymate has 60 seconds left.
+kebabsinqueso has 60 seconds left.
+
+Battle started between Mintymate and kebabsinqueso!
+
+Mintymate sent out Dragonite!
+
+Mintymate sent out Klefki!
 
 Go! Iron Hands!
 
 Go! Amoonguss!
 
-ramirok0 sent out Tornadus!
+Mintymate has 30 seconds left.
+Mintymate has 20 seconds left.
+Mintymate has 15 seconds left.
+Mintymate has 10 seconds left.
 
-ramirok0 sent out Chi-Yu!
+Iron Hands used Fake Out!
+It doesn't affect the opposing Klefki...
+
+The opposing Klefki used Icy Wind!
+It's super effective on Amoonguss!
+A critical hit on Amoonguss!
+(Iron Hands lost 5.4% of its health!)
+(Amoonguss lost 29.2% of its health!)
+Iron Hands's Speed fell!
+Amoonguss's Speed fell!
+
+The opposing Dragonite used Fire Punch!
+It's super effective!
+(Amoonguss lost 53.0% of its health!)
+(Amoonguss ate its Sitrus Berry!)
+Amoonguss restored HP using its Sitrus Berry!
+
+Amoonguss used Spore!
+The opposing Dragonite fell asleep!
+
+
+Mintymate withdrew Dragonite!
+Mintymate sent out Ursaluna!
+
+Amoonguss used Protect!
+Amoonguss protected itself!
+
+The opposing Klefki used Icy Wind!
+Amoonguss protected itself!
+(Iron Hands lost 5.4% of its health!)
+Iron Hands's Speed fell!
+
+Iron Hands used Wild Charge!
+(The opposing Klefki lost 99% of its health!)
+The opposing Zoroark's illusion wore off!
+Iron Hands was damaged by the recoil!
+
+The opposing Zoroark restored a little HP using its Leftovers!
+The opposing Ursaluna was burned!
+
+
+Mintymate withdrew Zoroark!
+Mintymate sent out Dragonite!
+
+Amoonguss used Rage Powder!
+Amoonguss became the center of attention!
+
+The opposing Ursaluna used Earthquake!
+It doesn't affect the opposing Dragonite...
+It's super effective on Iron Hands!
+(Iron Hands lost 74.1% of its health!)
+(Amoonguss lost 42.5% of its health!)
+
+Iron Hands fainted!
+
+Amoonguss fainted!
+
+The opposing Ursaluna was hurt by its burn!
+
+Go! Flutter Mane!
+
+Go! Chien-Pao!
+[Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
+
+Mintymate has 30 seconds left.
+kebabsinqueso has 30 seconds left.
+Mintymate has 20 seconds left.
+
+Mintymate withdrew Ursaluna!
+Mintymate sent out Klefki!
+
+Flutter Mane has Terastallized into the Grass-type!
+
+The opposing Dragonite has Terastallized into the Normal-type!
+
+The opposing Dragonite is fast asleep.
+
+Chien-Pao used Icicle Crash!
+(The opposing Dragonite lost 61% of its health!)
+
+Flutter Mane used Energy Ball!
+It's not very effective...
+(The opposing Klefki lost 32% of its health!)
+
+Mintymate has 30 seconds left.
+
+The opposing Dragonite is fast asleep.
+
+Chien-Pao used Sucker Punch!
+But it failed!
+
+Flutter Mane used Energy Ball!
+It's not very effective...
+(The opposing Klefki lost 35% of its health!)
+The opposing Klefki's Sp. Def fell!
+
+The opposing Klefki used Dazzling Gleam!
+It's super effective on Chien-Pao!
+(Flutter Mane lost 15.6% of its health!)
+(Chien-Pao lost 53.8% of its health!)
+
+
+Chien-Pao used Protect!
+Chien-Pao protected itself!
+
+Flutter Mane used Energy Ball!
+(The opposing Dragonite lost 39% of its health!)
+
+The opposing Dragonite fainted!
+The opposing Klefki used Dazzling Gleam!
+Chien-Pao protected itself!
+(Flutter Mane lost 14.3% of its health!)
+
+Mintymate sent out Ursaluna!
+
+
+The opposing Ursaluna used Protect!
+The opposing Ursaluna protected itself!
+
+Chien-Pao used Sucker Punch!
+But it failed!
+
+Flutter Mane used Energy Ball!
+It's not very effective...
+(The opposing Klefki lost 33% of its health!)
+
+The opposing Klefki fainted!
+
+The opposing Ursaluna restored a little HP using its Leftovers!
+
+Mintymate sent out Ursaluna!
+
+
+Chien-Pao used Sucker Punch!
+It's super effective!
+(The opposing Ursaluna lost 14% of its health!)
+The opposing Zoroark's illusion wore off!
+
+The opposing Zoroark fainted!
+Flutter Mane used Energy Ball!
+It's super effective!
+(The opposing Ursaluna lost 95% of its health!)
+
+The opposing Ursaluna fainted!
+
+kebabsinqueso won the battle!
+Register an account to protect your ladder rating!Register
+Register an account to protect your ladder rating!Register
+Mintymate's rating: 1088 → 1068(-20 for losing)
+kebabsinqueso's rating: 1137 → 1158(+21 for winning)
+
+--- Combate ---
+☆randy.zhang2023 and ☆kebabsinqueso joined
+Format: [Gen 9] VGC 2023 Regulation D
+Rated battle
+Species Clause: Limit one of each Pokémon
+Item Clause: Limit one of each item
+randy.zhang2023's team: Cacturne / Arboliva / Abomasnow / Heatran / Spiritomb / Urshifu-*
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by kebabsinqueso)
+randy.zhang2023 has 60 seconds left.
+kebabsinqueso has 60 seconds left.
+randy.zhang2023 has 30 seconds left.
+randy.zhang2023 has 20 seconds left.
+randy.zhang2023 has 15 seconds left.
+randy.zhang2023 has 10 seconds left.
+
+Battle started between randy.zhang2023 and kebabsinqueso!
+
+randy.zhang2023 sent out Spiritomb!
+
+randy.zhang2023 sent out Cacturne!
+
+Go! Iron Hands!
+
+Go! Amoonguss!
+
+randy.zhang2023 has 30 seconds left.
+randy.zhang2023 has 20 seconds left.
+
+randy.zhang2023 withdrew Cacturne!
+randy.zhang2023 sent out Abomasnow!
+[The opposing Abomasnow's Snow Warning]It started to snow!
+
+Iron Hands used Drain Punch!
+It's super effective!
+(The opposing Abomasnow lost 56% of its health!)
+
+Amoonguss used Spore!
+The opposing Spiritomb fell asleep!
+
+The opposing Spiritomb is fast asleep.
+
+(The snow is falling down.)
+
+
+randy.zhang2023 forfeited.
+
+kebabsinqueso won the battle!
+Register an account to protect your ladder rating!Register
+Register an account to protect your ladder rating!Register
+randy.zhang2023's rating: 1126 → 1103(-23 for losing)
+kebabsinqueso's rating: 1158 → 1181(+23 for winning)
+☆randy.zhang2023 left
+
+--- Combate ---
+☆kebabsinqueso and ☆Dragagoat2 joined
+Format: [Gen 9] VGC 2023 Regulation D
+Rated battle
+Species Clause: Limit one of each Pokémon
+Item Clause: Limit one of each item
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+Dragagoat2's team: Scizor / Perrserker / Regieleki / Pelipper / Iron Bundle / Kleavor
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dragagoat2)
+kebabsinqueso also wants the timer to be on.
+kebabsinqueso has 60 seconds left.
+
+Battle started between kebabsinqueso and Dragagoat2!
+
+Go! Amoonguss!
+
+Go! Iron Hands!
+
+Dragagoat2 sent out Kleavor!
+
+Dragagoat2 sent out Iron Bundle!
+(The opposing Iron Bundle used its Booster Energy!)
+[The opposing Iron Bundle's Quark Drive]The opposing Iron Bundle used its Booster Energy to activate its Quark Drive!
+The opposing Iron Bundle's Speed was heightened!
+
+Dragagoat2 has 30 seconds left.
+
+The opposing Iron Bundle used Protect!
+The opposing Iron Bundle protected itself!
+
+Amoonguss used Protect!
+Amoonguss protected itself!
+
+The opposing Kleavor used Stone Axe!
+Amoonguss protected itself!
+
+Iron Hands used Drain Punch!
+(The opposing Kleavor lost 49% of its health!)
+
+
+The opposing Iron Bundle used Hydro Pump!
+Iron Hands avoided the attack!
+
+The opposing Kleavor used Stone Axe!
+(Amoonguss lost 30.1% of its health!)
+Pointed stones float in the air around your team!
+
+Iron Hands used Drain Punch!
+It's super effective!
+(The opposing Iron Bundle lost 100% of its health!)
+
+The opposing Iron Bundle fainted!
+
+Amoonguss used Spore!
+The opposing Kleavor fell asleep!
+
+Dragagoat2 sent out Perrserker!
+
+
+Dragagoat2 forfeited.
+
+kebabsinqueso won the battle!
+Register an account to protect your ladder rating!Register
+Register an account to protect your ladder rating!Register
+kebabsinqueso's rating: 1181 → 1201(+20 for winning)
+Dragagoat2's rating: 1110 → 1090(-20 for losing)
+☆Dragagoat2 left
+
+--- Combate ---
+☆son moon and ☆kebabsinqueso joined
+Format: [Gen 9] VGC 2023 Regulation D
+Rated battle
+Species Clause: Limit one of each Pokémon
+Item Clause: Limit one of each item
+son moon's team: Murkrow / Flutter Mane / Gholdengo / Chi-Yu / Chien-Pao / Dragonite
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by kebabsinqueso)
+
+Battle started between son moon and kebabsinqueso!
+
+son moon sent out Murkrow!
+
+son moon sent out Chi-Yu!
+
+Go! Flutter Mane!
+
+Go! Amoonguss!
 [The opposing Chi-Yu's Beads of Ruin]The opposing Chi-Yu's Beads of Ruin weakened the Sp. Def of all surrounding Pokémon!
 
 
+Amoonguss used Protect!
+Amoonguss protected itself!
+
+The opposing Murkrow used Tailwind!
+The Tailwind blew from behind the opposing team!
+
+The opposing Chi-Yu used Heat Wave!
+Amoonguss protected itself!
+(Flutter Mane lost 56.5% of its health!)
+The opposing Chi-Yu lost some of its HP!
+
+Flutter Mane used Dazzling Gleam!
+It's super effective on the opposing Murkrow!
+(The opposing Murkrow lost 100% of its health!)
+(The opposing Chi-Yu lost 55% of its health!)
+
+The opposing Murkrow fainted!
+
+son moon sent out Flutter Mane!
+(The opposing Flutter Mane used its Booster Energy!)
+[The opposing Flutter Mane's Protosynthesis]The opposing Flutter Mane used its Booster Energy to activate Protosynthesis!
+The opposing Flutter Mane's Sp. Atk was heightened!
+
+
+Flutter Mane, come back!
+Go! Iron Hands!
+
+Amoonguss has Terastallized into the Water-type!
+
+The opposing Flutter Mane used Protect!
+The opposing Flutter Mane protected itself!
+
+The opposing Chi-Yu used Heat Wave!
+Amoonguss avoided the attack!
+(Iron Hands lost 34.7% of its health!)
+The opposing Chi-Yu lost some of its HP!
+
+Amoonguss used Spore!
+The opposing Flutter Mane protected itself!
+
+son moon has 30 seconds left.
+
+son moon withdrew Flutter Mane!
+son moon sent out Gholdengo!
+
+Iron Hands used Fake Out!
+(The opposing Chi-Yu lost 26% of its health!)
+
+The opposing Chi-Yu fainted!
+Amoonguss used Spore!
+[The opposing Gholdengo's Good as Gold]It doesn't affect the opposing Gholdengo...
+
+son moon sent out Flutter Mane!
+
+
+The opposing Flutter Mane used Protect!
+The opposing Flutter Mane protected itself!
+
+Amoonguss used Protect!
+Amoonguss protected itself!
+
+The opposing Gholdengo used Shadow Ball!
+(Iron Hands lost 38.1% of its health!)
+
+Iron Hands used Wild Charge!
+(The opposing Gholdengo lost 53% of its health!)
+Iron Hands was damaged by the recoil!
+
+The opposing team's Tailwind petered out!
+
+
+The opposing Flutter Mane used Shadow Ball!
+(Amoonguss lost 40.2% of its health!)
+
+The opposing Gholdengo used Shadow Ball!
+(Iron Hands lost 18.0% of its health!)
+
+Iron Hands fainted!
+
+Amoonguss used Spore!
+The opposing Flutter Mane fell asleep!
+
+Go! Flutter Mane!
+
+
+The opposing Flutter Mane is fast asleep.
+
+Flutter Mane used Shadow Ball!
+It's super effective!
+(The opposing Gholdengo lost 47% of its health!)
+
+The opposing Gholdengo fainted!
+Amoonguss used Pollen Puff!
+Flutter Mane had its HP restored.
+
+
+Amoonguss used Rage Powder!
+Amoonguss became the center of attention!
+
+Flutter Mane used Shadow Ball!
+It's super effective!
+(The opposing Flutter Mane lost 100% of its health!)
+
+The opposing Flutter Mane fainted!
+
+kebabsinqueso won the battle!
+Register an account to protect your ladder rating!Register
+Register an account to protect your ladder rating!Register
+son moon's rating: 1292 → 1261(-31 for losing)
+kebabsinqueso's rating: 1201 → 1232(+31 for winning)
+
+--- Combate ---
+☆HorrorOfWars and ☆kebabsinqueso joined
+Format: [Gen 9] VGC 2023 Regulation D
+Rated battle
+Species Clause: Limit one of each Pokémon
+Item Clause: Limit one of each item
+HorrorOfWars's team: Tornadus / Landorus-Therian / Gholdengo / Amoonguss / Chi-Yu / Flutter Mane
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by kebabsinqueso)
+HorrorOfWars also wants the timer to be on.
+
+Battle started between HorrorOfWars and kebabsinqueso!
+
+HorrorOfWars sent out Flutter Mane!
+
+HorrorOfWars sent out Chi-Yu!
+
+Go! Iron Hands!
+
+Go! Amoonguss!
+[The opposing Chi-Yu's Beads of Ruin]The opposing Chi-Yu's Beads of Ruin weakened the Sp. Def of all surrounding Pokémon!
+(The opposing Flutter Mane used its Booster Energy!)
+[The opposing Flutter Mane's Protosynthesis]The opposing Flutter Mane used its Booster Energy to activate Protosynthesis!
+The opposing Flutter Mane's Speed was heightened!
+
+
+The opposing Chi-Yu has Terastallized into the Ghost-type!
+
+Amoonguss has Terastallized into the Water-type!
+
+The opposing Flutter Mane used Dazzling Gleam!
+It's super effective on Iron Hands!
+(Iron Hands lost 45.2% of its health!)
+(Amoonguss lost 37.4% of its health!)
+
+The opposing Chi-Yu used Heat Wave!
+Amoonguss avoided the attack!
+(Iron Hands lost 33.1% of its health!)
+The opposing Chi-Yu lost some of its HP!
+
+Iron Hands used Drain Punch!
+It doesn't affect the opposing Chi-Yu...
+
+Amoonguss used Spore!
+The opposing Flutter Mane fell asleep!
+
+HorrorOfWars has 30 seconds left.
+
 The opposing Chi-Yu used Protect!
 The opposing Chi-Yu protected itself!
+
+The opposing Flutter Mane is fast asleep.
+
+Iron Hands used Volt Switch!
+The opposing Chi-Yu protected itself!
+
+Amoonguss used Spore!
+The opposing Flutter Mane is already asleep!
+
+
+The opposing Flutter Mane woke up!
+
+The opposing Flutter Mane used Dazzling Gleam!
+It's super effective on Iron Hands!
+(Iron Hands lost 21.8% of its health!)
+(Amoonguss lost 33.3% of its health!)
+(Amoonguss ate its Sitrus Berry!)
+Amoonguss restored HP using its Sitrus Berry!
+
+Iron Hands fainted!
+
+The opposing Chi-Yu used Dark Pulse!
+(Amoonguss lost 53.9% of its health!)
+
+Amoonguss fainted!
+The opposing Chi-Yu lost some of its HP!
+
+Go! Urshifu (Urshifu-Rapid-Strike)!
+
+Go! Chien-Pao!
+[Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
+
+☆HorrorOfWars: sorry
+
+Urshifu used Protect!
+Urshifu protected itself!
+
+The opposing Flutter Mane used Icy Wind!
+Urshifu protected itself!
+It's not very effective on Chien-Pao.
+(Chien-Pao lost 16.0% of its health!)
+Chien-Pao's Speed fell!
+
+The opposing Chi-Yu used Heat Wave!
+Urshifu protected itself!
+It's super effective on Chien-Pao!
+(Chien-Pao lost 84.0% of its health!)
+
+Chien-Pao fainted!
+The opposing Chi-Yu lost some of its HP!
+
+
+kebabsinqueso forfeited.
+
+HorrorOfWars won the battle!
+HorrorOfWars's rating: 1312 → 1327(+15 for winning)
+kebabsinqueso's rating: 1232 → 1213(-19 for losing)
+
+--- Combate ---
+☆kebabsinqueso and ☆notSeroGreen joined
+Format: [Gen 9] VGC 2023 Regulation D
+Rated battle
+Species Clause: Limit one of each Pokémon
+Item Clause: Limit one of each item
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+notSeroGreen's team: Typhlosion-Hisui / Azumarill / Thundurus / Goodra-Hisui / Urshifu-* / Amoonguss
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by notSeroGreen)
+kebabsinqueso also wants the timer to be on.
+notSeroGreen has agreed to open team sheets.
+kebabsinqueso has agreed to open team sheets.
+Open Team Sheet for kebabsinquesoFlutter Mane @ Choice Specs  Ability: Protosynthesis  Level: 50  Tera Type: Grass  - Shadow Ball  - Moonblast  - Dazzling Gleam  - Energy Ball  Urshifu (Urshifu-Rapid-Strike) @ Mystic Water  Ability: Unseen Fist  Level: 50  Tera Type: Water  - Surging Strikes  - Taunt  - Aqua Jet  - Protect  Amoonguss @ Sitrus Berry  Ability: Regenerator  Level: 50  Tera Type: Water  - Spore  - Rage Powder  - Pollen Puff  - Protect  Chien-Pao @ Focus Sash  Ability: Sword of Ruin  Level: 50  Tera Type: Ghost  - Icicle Crash  - Protect  - Sacred Sword  - Sucker Punch  Iron Hands @ Assault Vest  Ability: Quark Drive  Level: 50  Tera Type: Water  - Volt Switch  - Drain Punch  - Fake Out  - Wild Charge  Landorus (Landorus-Therian) (M) @ Safety Goggles  Ability: Intimidate  Level: 50  Tera Type: Flying  - U-turn  - Stomping Tantrum  - Protect  - Tera Blast  Open Team Sheet for notSeroGreenTyphlosion (Typhlosion-Hisui) @ Flame Plate  Ability: Blaze  Level: 50  Tera Type: Fire  - Infernal Parade  - Flamethrower  - Eruption  - Protect  Azumarill @ Life Orb  Ability: Huge Power  Level: 50  Tera Type: Fairy  - Aqua Jet  - Liquidation  - Play Rough  - Protect  Thundurus (M) @ Safety Goggles  Ability: Prankster  Level: 50  Tera Type: Electric  - Wildbolt Storm  - Thunder Wave  - Taunt  - Protect  Goodra (Goodra-Hisui) @ Choice Specs  Ability: Gooey  Level: 50  Tera Type: Flying  - Flash Cannon  - Draco Meteor  - Thunderbolt  - Ice Beam  Urshifu @ Focus Sash  Ability: Unseen Fist  Level: 50  Tera Type: Dark  - Wicked Blow  - Sucker Punch  - Close Combat  - Detect  Amoonguss @ Sitrus Berry  Ability: Regenerator  Level: 50  Tera Type: Water  - Rage Powder  - Spore  - Pollen Puff  - Protect
+Open Team Sheet for kebabsinquesoFlutter Mane @ Choice Specs  Ability: Protosynthesis  Level: 50  Tera Type: Grass  - Shadow Ball  - Moonblast  - Dazzling Gleam  - Energy Ball  Urshifu (Urshifu-Rapid-Strike) @ Mystic Water  Ability: Unseen Fist  Level: 50  Tera Type: Water  - Surging Strikes  - Taunt  - Aqua Jet  - Protect  Amoonguss @ Sitrus Berry  Ability: Regenerator  Level: 50  Tera Type: Water  - Spore  - Rage Powder  - Pollen Puff  - Protect  Chien-Pao @ Focus Sash  Ability: Sword of Ruin  Level: 50  Tera Type: Ghost  - Icicle Crash  - Protect  - Sacred Sword  - Sucker Punch  Iron Hands @ Assault Vest  Ability: Quark Drive  Level: 50  Tera Type: Water  - Volt Switch  - Drain Punch  - Fake Out  - Wild Charge  Landorus (Landorus-Therian) (M) @ Safety Goggles  Ability: Intimidate  Level: 50  Tera Type: Flying  - U-turn  - Stomping Tantrum  - Protect  - Tera Blast
+Open Team Sheet for notSeroGreenTyphlosion (Typhlosion-Hisui) @ Flame Plate  Ability: Blaze  Level: 50  Tera Type: Fire  - Infernal Parade  - Flamethrower  - Eruption  - Protect  Azumarill @ Life Orb  Ability: Huge Power  Level: 50  Tera Type: Fairy  - Aqua Jet  - Liquidation  - Play Rough  - Protect  Thundurus (M) @ Safety Goggles  Ability: Prankster  Level: 50  Tera Type: Electric  - Wildbolt Storm  - Thunder Wave  - Taunt  - Protect  Goodra (Goodra-Hisui) @ Choice Specs  Ability: Gooey  Level: 50  Tera Type: Flying  - Flash Cannon  - Draco Meteor  - Thunderbolt  - Ice Beam  Urshifu @ Focus Sash  Ability: Unseen Fist  Level: 50  Tera Type: Dark  - Wicked Blow  - Sucker Punch  - Close Combat  - Detect  Amoonguss @ Sitrus Berry  Ability: Regenerator  Level: 50  Tera Type: Water  - Rage Powder  - Spore  - Pollen Puff  - Protect
+notSeroGreen has 60 seconds left.
+User: kebabsinquesoFormatEloGXEGlicko-1WLTotal[Gen 8] VGC 2020150064.3%1613 ± 677448122[Gen 8] VGC 20211021–1466 ± 111 (provisional)123[Gen 9] VGC 2023 Regulation D121360.9%1585 ± 7910313[Gen 8] VGC 2020, [Gen 8] VGC 2021 not shown
+User: kebabsinquesoFormatEloGXEGlicko-1WLTotal[Gen 8] VGC 2020150064.3%1613 ± 677448122[Gen 8] VGC 20211021–1466 ± 111 (provisional)123[Gen 9] VGC 2023 Regulation D121360.9%1585 ± 7910313[Gen 8] VGC 2020, [Gen 8] VGC 2021 not shown
+notSeroGreen has 30 seconds left.
+
+Battle started between kebabsinqueso and notSeroGreen!
+
+Go! Chien-Pao!
+
+Go! Amoonguss!
+
+notSeroGreen sent out Amoonguss!
+
+notSeroGreen sent out Goodra (Goodra-Hisui)!
+[Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
+
+
+Chien-Pao used Protect!
+Chien-Pao protected itself!
+
+The opposing Amoonguss used Rage Powder!
+The opposing Amoonguss became the center of attention!
+
+The opposing Goodra used Ice Beam!
+Chien-Pao protected itself!
+
+Amoonguss used Spore!
+The opposing Goodra fell asleep!
+
+
+notSeroGreen withdrew Goodra!
+notSeroGreen sent out Typhlosion (Typhlosion-Hisui)!
+
+Amoonguss, come back!
+Go! Iron Hands!
+
+The opposing Amoonguss used Protect!
+The opposing Amoonguss protected itself!
+
+Chien-Pao used Icicle Crash!
+The opposing Amoonguss protected itself!
+
+
+The opposing Typhlosion used Protect!
+The opposing Typhlosion protected itself!
+
+Chien-Pao used Icicle Crash!
+It's super effective!
+(The opposing Amoonguss lost 98% of its health!)
+(The opposing Amoonguss ate its Sitrus Berry!)
+The opposing Amoonguss restored HP using its Sitrus Berry!
+
+Iron Hands used Wild Charge!
+It's not very effective...
+(The opposing Amoonguss lost 27% of its health!)
+
+The opposing Amoonguss fainted!
+Iron Hands was damaged by the recoil!
+
+notSeroGreen sent out Azumarill!
+
+
+notSeroGreen withdrew Typhlosion!
+notSeroGreen sent out Goodra (Goodra-Hisui)!
+
+Chien-Pao used Sucker Punch!
+But it failed!
+
+Iron Hands used Wild Charge!
+It's not very effective...
+(The opposing Goodra lost 27% of its health!)
+[The opposing Goodra's Gooey]
+Iron Hands's Speed fell!
+Iron Hands was damaged by the recoil!
+
+The opposing Azumarill used Play Rough!
+It's super effective!
+(Iron Hands lost 88.3% of its health!)
+
+Iron Hands fainted!
+The opposing Azumarill lost some of its HP!
+
+Go! Amoonguss!
+
+
+The opposing Goodra has Terastallized into the Flying-type!
+
+The opposing Azumarill used Aqua Jet!
+(Chien-Pao lost 50.6% of its health!)
+The opposing Azumarill lost some of its HP!
+
+Chien-Pao used Sacred Sword!
+It's not very effective...
+(The opposing Goodra lost 19% of its health!)
+[The opposing Goodra's Gooey]
+Chien-Pao's Speed fell!
+
+The opposing Goodra is fast asleep.
+
+Amoonguss used Spore!
+The opposing Azumarill fell asleep!
+
+
+The opposing Azumarill is fast asleep.
+
+Amoonguss used Rage Powder!
+Amoonguss became the center of attention!
+
+Chien-Pao used Icicle Crash!
+It's super effective!
+(The opposing Goodra lost 54% of its health!)
+
+The opposing Goodra fainted!
+
+notSeroGreen sent out Typhlosion (Typhlosion-Hisui)!
+
+
+Amoonguss used Rage Powder!
+Amoonguss became the center of attention!
+
+Chien-Pao used Sucker Punch!
+It's super effective!
+(The opposing Typhlosion lost 100% of its health!)
+
+The opposing Typhlosion fainted!
+The opposing Azumarill is fast asleep.
+
+
+The opposing Azumarill woke up!
+
+The opposing Azumarill used Aqua Jet!
+(Chien-Pao lost 44.9% of its health!)
+The opposing Azumarill lost some of its HP!
+
+Chien-Pao used Sacred Sword!
+It's not very effective...
+(The opposing Azumarill lost 18% of its health!)
+
+Amoonguss used Pollen Puff!
+Chien-Pao had its HP restored.
+
+
+Chien-Pao used Protect!
+Chien-Pao protected itself!
+
+The opposing Azumarill used Play Rough!
+Chien-Pao protected itself!
+
+Amoonguss used Spore!
+The opposing Azumarill fell asleep!
+
+
+Chien-Pao used Icicle Crash!
+It's not very effective...
+(The opposing Azumarill lost 24% of its health!)
+
+The opposing Azumarill is fast asleep.
+
+Amoonguss used Pollen Puff!
+Chien-Pao had its HP restored.
+
+
+The opposing Azumarill woke up!
+
+The opposing Azumarill used Aqua Jet!
+(Chien-Pao lost 47.4% of its health!)
+The opposing Azumarill lost some of its HP!
+
+Chien-Pao used Sacred Sword!
+It's not very effective...
+(The opposing Azumarill lost 18% of its health!)
+
+Amoonguss used Pollen Puff!
+It's not very effective...
+(The opposing Azumarill lost 1% of its health!)
+
+The opposing Azumarill fainted!
+
+kebabsinqueso won the battle!
+Register an account to protect your ladder rating!Register
+Register an account to protect your ladder rating!Register
+kebabsinqueso's rating: 1213 → 1243(+30 for winning)
+notSeroGreen's rating: 1287 → 1257(-30 for losing)
+☆notSeroGreen left
+
+--- Combate ---
+☆kebabsinqueso and ☆Only my Dondozo joined
+Format: [Gen 9] VGC 2023 Regulation D
+Rated battle
+Species Clause: Limit one of each Pokémon
+Item Clause: Limit one of each item
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+Only my Dondozo's team: Lilligant-Hisui / Torkoal / Indeedee-F / Armarouge / Ursaluna / Hatterene
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by kebabsinqueso)
+Only my Dondozo rejected open team sheets.
+
+Battle started between kebabsinqueso and Only my Dondozo!
+
+Go! Amoonguss!
+
+Go! Chien-Pao!
+
+Only my Dondozo sent out Torkoal!
+
+Only my Dondozo sent out Lilligant (Lilligant-Hisui)!
+[Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
+[The opposing Torkoal's Drought]The sunlight turned harsh!
+
+Only my Dondozo has 30 seconds left.
+
+Amoonguss has Terastallized into the Water-type!
+
+The opposing Torkoal has Terastallized into the Fire-type!
+
+The opposing Lilligant used Solar Blade!
+The opposing Lilligant absorbed light!
+It's super effective!
+(Amoonguss lost 100% of its health!)
+
+Amoonguss fainted!
+Chien-Pao used Icicle Crash!
+It's super effective!
+The opposing Lilligant hung on using its Focus Sash!
+(The opposing Lilligant lost 99% of its health!)
+
+The opposing Torkoal used Eruption!
+It's super effective!
+Chien-Pao hung on using its Focus Sash!
+(Chien-Pao lost 99.4% of its health!)
+
+(The sunlight is strong.)
+
+Go! Iron Hands!
+
+
+Only my Dondozo withdrew Lilligant!
+Only my Dondozo sent out Indeedee (Indeedee-F)!
+[The opposing Indeedee's Psychic Surge]The battlefield got weird!
+
+Iron Hands used Fake Out!
+The opposing Torkoal is protected by the Psychic Terrain!
+
+Chien-Pao used Sacred Sword!
+(The opposing Torkoal lost 31% of its health!)
+
+The opposing Torkoal used Eruption!
+It's super effective on Chien-Pao!
+(Iron Hands lost 54.4% of its health!)
+(Chien-Pao lost 0.6% of its health!)
+
+Chien-Pao fainted!
+
+(The sunlight is strong.)
+
+Go! Flutter Mane!
+[Flutter Mane's Protosynthesis]The harsh sunlight activated Flutter Mane's Protosynthesis!
+Flutter Mane's Speed was heightened!
+
+
+Flutter Mane used Dazzling Gleam!
+It's not very effective on the opposing Torkoal.
+(The opposing Torkoal lost 29% of its health!)
+(The opposing Indeedee lost 42% of its health!)
+
+Iron Hands used Drain Punch!
+(The opposing Torkoal lost 29% of its health!)
+The opposing Torkoal had its energy drained!
+
+The opposing Torkoal used Eruption!
+(Iron Hands lost 7.5% of its health!)
+(Flutter Mane lost 14.3% of its health!)
+
+The opposing Indeedee used Trick Room!
+The opposing Indeedee twisted the dimensions!
+
+(The sunlight is strong.)
+
+
+Only my Dondozo withdrew Torkoal!
+Only my Dondozo sent out Lilligant (Lilligant-Hisui)!
+
+The opposing Indeedee used Dazzling Gleam!
+It's super effective on Iron Hands!
+(Iron Hands lost 15.1% of its health!)
+(Flutter Mane lost 11.7% of its health!)
+
+Iron Hands used Drain Punch!
+(The opposing Indeedee lost 40% of its health!)
+The opposing Indeedee had its energy drained!
+Iron Hands was hurt by the Rocky Helmet!
+
+Flutter Mane used Dazzling Gleam!
+It's super effective on the opposing Lilligant!
+(The opposing Lilligant lost 1% of its health!)
+(The opposing Indeedee lost 18% of its health!)
+
+The opposing Lilligant fainted!
+The opposing Indeedee fainted!
+
+(The sunlight is strong.)
+
+Only my Dondozo sent out Torkoal!
+
+Only my Dondozo sent out Ursaluna!
+
+
+The opposing Torkoal used Flamethrower!
+(Iron Hands lost 32.2% of its health!)
+
+Iron Hands fainted!
+
+The opposing Ursaluna used Headlong Rush!
+(Flutter Mane lost 74.0% of its health!)
+The opposing Ursaluna's Defense fell!
+The opposing Ursaluna's Sp. Def fell!
+
+Flutter Mane fainted!
+
+Only my Dondozo won the battle!
+kebabsinqueso's rating: 1243 → 1226(-17 for losing)
+Only my Dondozo's rating: 1364 → 1377(+13 for winning)
+☆Only my Dondozo left
+
+--- Combate ---
+☆Sailsun and ☆kebabsinqueso joined
+Format: [Gen 9] VGC 2023 Regulation D
+Rated battle
+Species Clause: Limit one of each Pokémon
+Item Clause: Limit one of each item
+Sailsun's team: Tornadus / Brambleghast / Flutter Mane / Chi-Yu / Urshifu-* / Gholdengo
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by kebabsinqueso)
+kebabsinqueso has agreed to open team sheets.
+Sailsun has 60 seconds left.
+
+Battle started between Sailsun and kebabsinqueso!
+
+Sailsun sent out Tornadus!
+
+Sailsun sent out Flutter Mane!
+
+Go! Iron Hands!
+
+Go! Amoonguss!
+(The opposing Flutter Mane used its Booster Energy!)
+[The opposing Flutter Mane's Protosynthesis]The opposing Flutter Mane used its Booster Energy to activate Protosynthesis!
+The opposing Flutter Mane's Sp. Atk was heightened!
+
 
 Amoonguss used Protect!
 Amoonguss protected itself!
 
 The opposing Tornadus used Taunt!
 Amoonguss protected itself!
+
+The opposing Flutter Mane used Moonblast!
+It's super effective!
+(Iron Hands lost 72.8% of its health!)
+Iron Hands's Sp. Atk fell!
 
 Iron Hands used Wild Charge!
 It's super effective!
@@ -197,225 +2243,172 @@ It's super effective!
 The opposing Tornadus fainted!
 Iron Hands was damaged by the recoil!
 
-ramirok0 sent out Flutter Mane!
+Sailsun sent out Brambleghast!
 
 
-Amoonguss has Terastallized into the Water-type!
+The opposing Brambleghast has Terastallized into the Ghost-type!
 
 The opposing Flutter Mane used Dazzling Gleam!
 It's super effective on Iron Hands!
-(Iron Hands lost 56.1% of its health!)
-(Amoonguss lost 45.7% of its health!)
-
-The opposing Chi-Yu used Heat Wave!
-A critical hit on Iron Hands!
 It's not very effective on Amoonguss.
-A critical hit on Amoonguss!
-(Iron Hands lost 24.3% of its health!)
-(Amoonguss lost 41.1% of its health!)
-Amoonguss was burned!
-(Amoonguss ate its Sitrus Berry!)
-Amoonguss restored HP using its Sitrus Berry!
+(Iron Hands lost 9.2% of its health!)
+(Amoonguss lost 16.9% of its health!)
 
 Iron Hands fainted!
-The opposing Chi-Yu lost some of its HP!
+
+The opposing Brambleghast used Tera Blast!
+(Amoonguss lost 48.4% of its health!)
+(Amoonguss ate its Sitrus Berry!)
+Amoonguss restored HP using its Sitrus Berry!
 
 Amoonguss used Spore!
 The opposing Flutter Mane fell asleep!
 
-Amoonguss was hurt by its burn!
+Go! Landorus (Landorus-Therian)!
+[Landorus's Intimidate]
+The opposing Brambleghast's Attack fell!
+The opposing Flutter Mane's Attack fell!
 
-Go! Flutter Mane!
 
+Landorus has Terastallized into the Flying-type!
 
-ramirok0 withdrew Flutter Mane!
-ramirok0 sent out Amoonguss!
+The opposing Flutter Mane is fast asleep.
 
-The opposing Chi-Yu used Protect!
-The opposing Chi-Yu protected itself!
+The opposing Brambleghast used Power Whip!
+Landorus avoided the attack!
 
-Flutter Mane used Shadow Ball!
-(The opposing Amoonguss lost 70% of its health!)
+Landorus used Tera Blast!
+(The opposing Flutter Mane lost 89% of its health!)
 
 Amoonguss used Spore!
-The opposing Chi-Yu protected itself!
-
-Amoonguss was hurt by its burn!
-
-ramirok0 has 30 seconds left.
-
-The opposing Amoonguss used Protect!
-The opposing Amoonguss protected itself!
-
-Flutter Mane used Shadow Ball!
-The opposing Amoonguss protected itself!
-
-The opposing Chi-Yu used Heat Wave!
-It's not very effective on Amoonguss.
-(Flutter Mane lost 61.7% of its health!)
-(Amoonguss lost 26.0% of its health!)
-
-Amoonguss fainted!
-The opposing Chi-Yu lost some of its HP!
-
-Go! Chien-Pao!
-[Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
+The opposing Brambleghast fell asleep!
 
 
-The opposing Amoonguss used Rage Powder!
-The opposing Amoonguss became the center of attention!
+Sailsun forfeited.
 
-Chien-Pao used Sacred Sword!
-It's not very effective...
-(The opposing Amoonguss lost 16% of its health!)
-Chien-Pao was hurt by the Rocky Helmet!
-
-Flutter Mane used Shadow Ball!
-(The opposing Amoonguss lost 14% of its health!)
-
-The opposing Amoonguss fainted!
-The opposing Chi-Yu used Heat Wave!
-It's super effective on Chien-Pao!
-(Flutter Mane lost 38.3% of its health!)
-(Chien-Pao lost 83.3% of its health!)
-
-Flutter Mane fainted!
-
-Chien-Pao fainted!
-The opposing Chi-Yu lost some of its HP!
-
-ramirok0 won the battle!
-edwqrqtgf's rating: 1000 → 1000(+0 for losing)
-ramirok0's rating: 1000 → 1040(+40 for winning)
-☆ramirok0 left
+kebabsinqueso won the battle!
+Register an account to protect your ladder rating!Register
+Register an account to protect your ladder rating!Register
+Sailsun's rating: 1233 → 1207(-26 for losing)
+kebabsinqueso's rating: 1226 → 1252(+26 for winning)
+☆Sailsun left
 
 --- Combate ---
-☆edwqrqtgf and ☆ramirok0 joined
+☆10tackles and ☆kebabsinqueso joined
 Format: [Gen 9] VGC 2023 Regulation D
 Rated battle
 Species Clause: Limit one of each Pokémon
 Item Clause: Limit one of each item
-edwqrqtgf's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
-ramirok0's team: Tornadus / Urshifu-* / Chi-Yu / Flutter Mane / Regidrago / Amoonguss
-Battle timer is ON: inactive players will automatically lose when time's up. (requested by edwqrqtgf)
-ramirok0 has 60 seconds left.
+10tackles's team: Lilligant-Hisui / Torkoal / Ursaluna / Iron Hands / Cresselia / Rillaboom
+kebabsinqueso's team: Flutter Mane / Urshifu-* / Amoonguss / Chien-Pao / Iron Hands / Landorus-Therian
+Battle timer is ON: inactive players will automatically lose when time's up. (requested by kebabsinqueso)
+10tackles has 60 seconds left.
+kebabsinqueso has 60 seconds left.
 
-Battle started between edwqrqtgf and ramirok0!
+Battle started between 10tackles and kebabsinqueso!
 
-Go! Iron Hands!
+10tackles sent out Cresselia!
 
-Go! Amoonguss!
-
-ramirok0 sent out Tornadus!
-
-ramirok0 sent out Chi-Yu!
-[The opposing Chi-Yu's Beads of Ruin]The opposing Chi-Yu's Beads of Ruin weakened the Sp. Def of all surrounding Pokémon!
-
-
-The opposing Chi-Yu used Protect!
-The opposing Chi-Yu protected itself!
-
-Amoonguss used Protect!
-Amoonguss protected itself!
-
-The opposing Tornadus used Taunt!
-Amoonguss protected itself!
-
-Iron Hands used Wild Charge!
-It's super effective!
-(The opposing Tornadus lost 100% of its health!)
-
-The opposing Tornadus fainted!
-Iron Hands was damaged by the recoil!
-
-ramirok0 sent out Flutter Mane!
-
-
-Amoonguss has Terastallized into the Water-type!
-
-The opposing Flutter Mane used Dazzling Gleam!
-It's super effective on Iron Hands!
-(Iron Hands lost 56.1% of its health!)
-(Amoonguss lost 45.7% of its health!)
-
-The opposing Chi-Yu used Heat Wave!
-A critical hit on Iron Hands!
-It's not very effective on Amoonguss.
-A critical hit on Amoonguss!
-(Iron Hands lost 24.3% of its health!)
-(Amoonguss lost 41.1% of its health!)
-Amoonguss was burned!
-(Amoonguss ate its Sitrus Berry!)
-Amoonguss restored HP using its Sitrus Berry!
-
-Iron Hands fainted!
-The opposing Chi-Yu lost some of its HP!
-
-Amoonguss used Spore!
-The opposing Flutter Mane fell asleep!
-
-Amoonguss was hurt by its burn!
+10tackles sent out Ursaluna!
 
 Go! Flutter Mane!
 
+Go! Iron Hands!
 
-ramirok0 withdrew Flutter Mane!
-ramirok0 sent out Amoonguss!
 
-The opposing Chi-Yu used Protect!
-The opposing Chi-Yu protected itself!
+The opposing Cresselia has Terastallized into the Dark-type!
 
-Flutter Mane used Shadow Ball!
-(The opposing Amoonguss lost 70% of its health!)
+The opposing Ursaluna used Protect!
+The opposing Ursaluna protected itself!
 
-Amoonguss used Spore!
-The opposing Chi-Yu protected itself!
-
-Amoonguss was hurt by its burn!
-
-ramirok0 has 30 seconds left.
-
-The opposing Amoonguss used Protect!
-The opposing Amoonguss protected itself!
+Iron Hands used Fake Out!
+(The opposing Cresselia lost 8% of its health!)
 
 Flutter Mane used Shadow Ball!
-The opposing Amoonguss protected itself!
+It's not very effective...
+(The opposing Cresselia lost 18% of its health!)
 
-The opposing Chi-Yu used Heat Wave!
-It's not very effective on Amoonguss.
-(Flutter Mane lost 61.7% of its health!)
-(Amoonguss lost 26.0% of its health!)
+The opposing Cresselia flinched and couldn't move!
 
-Amoonguss fainted!
-The opposing Chi-Yu lost some of its HP!
+The opposing Ursaluna was burned!
+
+
+Flutter Mane used Shadow Ball!
+It's not very effective...
+(The opposing Cresselia lost 16% of its health!)
+
+Iron Hands used Drain Punch!
+It's super effective!
+(The opposing Cresselia lost 48% of its health!)
+
+The opposing Ursaluna used Earthquake!
+[The opposing Cresselia's Levitate]It doesn't affect the opposing Cresselia...
+It's super effective on Iron Hands!
+(Flutter Mane lost 100% of its health!)
+(Iron Hands lost 90.4% of its health!)
+
+Flutter Mane fainted!
+
+The opposing Cresselia used Trick Room!
+The opposing Cresselia twisted the dimensions!
+
+The opposing Ursaluna was hurt by its burn!
 
 Go! Chien-Pao!
 [Chien-Pao's Sword of Ruin]Chien-Pao's Sword of Ruin weakened the Defense of all surrounding Pokémon!
 
 
-The opposing Amoonguss used Rage Powder!
-The opposing Amoonguss became the center of attention!
+Iron Hands, come back!
+Go! Amoonguss!
 
-Chien-Pao used Sacred Sword!
-It's not very effective...
-(The opposing Amoonguss lost 16% of its health!)
-Chien-Pao was hurt by the Rocky Helmet!
+The opposing Ursaluna used Earthquake!
+[The opposing Cresselia's Levitate]It doesn't affect the opposing Cresselia...
+(Chien-Pao lost 96.8% of its health!)
+(Amoonguss lost 76.7% of its health!)
+(Amoonguss ate its Sitrus Berry!)
+Amoonguss restored HP using its Sitrus Berry!
 
-Flutter Mane used Shadow Ball!
-(The opposing Amoonguss lost 14% of its health!)
+The opposing Cresselia used Lunar Blessing!
+The opposing Cresselia had its HP restored.
+The opposing Ursaluna had its HP restored.
+The opposing Ursaluna's burn was healed!
 
-The opposing Amoonguss fainted!
-The opposing Chi-Yu used Heat Wave!
-It's super effective on Chien-Pao!
-(Flutter Mane lost 38.3% of its health!)
-(Chien-Pao lost 83.3% of its health!)
+Chien-Pao used Icicle Crash!
+The opposing Ursaluna avoided the attack!
 
-Flutter Mane fainted!
+The opposing Ursaluna was burned!
+
+
+Chien-Pao used Protect!
+Chien-Pao protected itself!
+
+The opposing Ursaluna used Earthquake!
+Chien-Pao protected itself!
+[The opposing Cresselia's Levitate]It doesn't affect the opposing Cresselia...
+(Amoonguss lost 47.9% of its health!)
+
+Amoonguss fainted!
+The opposing Cresselia used Lunar Blessing!
+The opposing Cresselia had its HP restored.
+The opposing Ursaluna's burn was healed!
+
+The opposing Ursaluna was burned!
+
+Go! Iron Hands!
+
+
+Iron Hands used Fake Out!
+(The opposing Cresselia lost 13% of its health!)
+
+The opposing Ursaluna used Earthquake!
+[The opposing Cresselia's Levitate]It doesn't affect the opposing Cresselia...
+It's super effective on Iron Hands!
+(Chien-Pao lost 3.2% of its health!)
+(Iron Hands lost 9.6% of its health!)
 
 Chien-Pao fainted!
-The opposing Chi-Yu lost some of its HP!
+Iron Hands fainted!
 
-ramirok0 won the battle!
-edwqrqtgf's rating: 1000 → 1000(+0 for losing)
-ramirok0's rating: 1000 → 1040(+40 for winning)
-☆ramirok0 left
+10tackles won the battle!
+10tackles's rating: 1221 → 1248(+27 for winning)
+kebabsinqueso's rating: 1252 → 1225(-27 for losing)

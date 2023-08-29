@@ -1,7 +1,7 @@
 import re
 import json
 
-MI_NOMBRE_DE_USUARIO = "edwqrqtgf"
+MI_NOMBRE_DE_USUARIO = "kebabsinqueso"
 
 def procesar_linea(linea, datos_participantes):
     if "Battle started between" in linea:
