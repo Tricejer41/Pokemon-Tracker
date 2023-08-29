@@ -198,8 +198,8 @@
         "resultado": "Victoria"
     },
     {
-        "yo": "",
-        "oponente": "",
+        "yo": "kebabsinqueso",
+        "oponente": "cuong freefire",
         "rating_anterior_yo": 1128,
         "rating_posterior_yo": 1111,
         "rating_anterior_oponente": 1239,
@@ -297,8 +297,8 @@
         "resultado": "Victoria"
     },
     {
-        "yo": "",
-        "oponente": "",
+        "yo": "kebabsinqueso",
+        "oponente": "randy.zhang2023",
         "rating_anterior_yo": 1158,
         "rating_posterior_yo": 1181,
         "rating_anterior_oponente": 1126,
@@ -363,8 +363,8 @@
         "resultado": "Victoria"
     },
     {
-        "yo": "",
-        "oponente": "",
+        "yo": "kebabsinqueso",
+        "oponente": "son moon",
         "rating_anterior_yo": 1201,
         "rating_posterior_yo": 1232,
         "rating_anterior_oponente": 1292,
@@ -462,8 +462,8 @@
         "resultado": "Victoria"
     },
     {
-        "yo": "",
-        "oponente": "",
+        "yo": "kebabsinqueso",
+        "oponente": "Only my Dondozo",
         "rating_anterior_yo": 1243,
         "rating_posterior_yo": 1226,
         "rating_anterior_oponente": 1364,
@@ -526,5 +526,38 @@
             "Flutter Mane"
         ],
         "resultado": "Victoria"
+    },
+    {
+        "yo": "kebabsinqueso",
+        "oponente": "10tackles",
+        "rating_anterior_yo": 1252,
+        "rating_posterior_yo": 1225,
+        "rating_anterior_oponente": 1221,
+        "rating_posterior_oponente": 1248,
+        "pokemons_yo": [
+            "Amoonguss",
+            "Chien-Pao",
+            "Flutter Mane",
+            "Iron Hands",
+            "Landorus-Therian",
+            "Urshifu"
+        ],
+        "pokemons_oponente": [
+            "Cresselia",
+            "Iron Hands",
+            "Lilligant-Hisui",
+            "Rillaboom",
+            "Torkoal",
+            "Ursaluna"
+        ],
+        "lead_yo": [
+            "Flutter Mane",
+            "Iron Hands"
+        ],
+        "lead_oponente": [
+            "Cresselia",
+            "Ursaluna"
+        ],
+        "resultado": "Derrota"
     }
 ]

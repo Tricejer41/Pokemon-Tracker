@@ -5,7 +5,7 @@ MI_NOMBRE_DE_USUARIO = "kebabsinqueso"
 
 def procesar_linea(linea, datos_participantes):
     if "Battle started between" in linea:
-        m = re.search(r'Battle started between (\w+) and (\w+)!', linea)
+        m = re.search(r'Battle started between (.+?) and (.+?)!', linea)
         if m:
             yo = m.group(1)
             oponente = m.group(2)
@@ -83,10 +83,10 @@ def procesar_archivo(archivo_entrada):
                 datos_partida = {
                     'yo': '',
                     'oponente': '',
-                    'rating_anterior_yo': 0,  # Valor por defecto
-                    'rating_posterior_yo': 0,  # Valor por defecto
-                    'rating_anterior_oponente': 0,  # Valor por defecto
-                    'rating_posterior_oponente': 0,  # Valor por defecto
+                    'rating_anterior_yo': 0,
+                    'rating_posterior_yo': 0,
+                    'rating_anterior_oponente': 0,
+                    'rating_posterior_oponente': 0,
                     'pokemons_yo': [],
                     'pokemons_oponente': [],
                     'lead_yo': [],
@@ -95,7 +95,11 @@ def procesar_archivo(archivo_entrada):
                 }
             else:
                 datos_partida = procesar_linea(linea, datos_partida)
-    
+
+        # Después de terminar el bucle, agregar el último combate si existe
+        if datos_partida is not None:
+            combates.append(datos_partida)
+        
     return combates
 
 if __name__ == "__main__":
