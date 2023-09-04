@@ -26,10 +26,14 @@
             "Iron Hands",
             "Amoonguss"
         ],
+        "backlane_yo": [
+            "Chien-Pao"
+        ],
         "lead_oponente": [
             "Sneasler",
             "Indeedee-F"
         ],
+        "backlane_oponente": [],
         "resultado": "Victoria"
     },
     {
@@ -59,9 +63,16 @@
             "Iron Hands",
             "Amoonguss"
         ],
+        "backlane_yo": [
+            "Flutter Mane"
+        ],
         "lead_oponente": [
             "Pelipper",
             "Gastrodon-East"
+        ],
+        "backlane_oponente": [
+            "Urshifu-Rapid-Strike",
+            "Basculegion-F"
         ],
         "resultado": "Victoria"
     },
@@ -92,9 +103,17 @@
             "Iron Hands",
             "Amoonguss"
         ],
+        "backlane_yo": [
+            "Chien-Pao",
+            "Urshifu-Rapid-Strike"
+        ],
         "lead_oponente": [
             "Noivern",
             "Electrode-Hisui"
+        ],
+        "backlane_oponente": [
+            "Landorus",
+            "Chi-Yu"
         ],
         "resultado": "Derrota"
     },
@@ -125,9 +144,17 @@
             "Iron Hands",
             "Amoonguss"
         ],
+        "backlane_yo": [
+            "Chien-Pao",
+            "Flutter Mane"
+        ],
         "lead_oponente": [
             "Iron Bundle",
             "Flutter Mane"
+        ],
+        "backlane_oponente": [
+            "Tornadus",
+            "Urshifu-Rapid-Strike"
         ],
         "resultado": "Victoria"
     },
@@ -158,9 +185,17 @@
             "Iron Hands",
             "Amoonguss"
         ],
+        "backlane_yo": [
+            "Chien-Pao",
+            "Chien-Pao"
+        ],
         "lead_oponente": [
             "Talonflame",
             "Noivern"
+        ],
+        "backlane_oponente": [
+            "Greninja",
+            "Goodra-Hisui"
         ],
         "resultado": "Victoria"
     },
@@ -191,9 +226,17 @@
             "Iron Hands",
             "Amoonguss"
         ],
+        "backlane_yo": [
+            "Flutter Mane",
+            "Chien-Pao"
+        ],
         "lead_oponente": [
             "Landorus-Therian",
             "Goodra-Hisui"
+        ],
+        "backlane_oponente": [
+            "Rillaboom",
+            "Flutter Mane"
         ],
         "resultado": "Victoria"
     },
@@ -224,9 +267,17 @@
             "Chien-Pao",
             "Amoonguss"
         ],
+        "backlane_yo": [
+            "Urshifu-Rapid-Strike",
+            "Iron Hands"
+        ],
         "lead_oponente": [
             "Lycanroc",
             "Tyranitar"
+        ],
+        "backlane_oponente": [
+            "Flutter Mane",
+            "Landorus-Therian"
         ],
         "resultado": "Derrota"
     },
@@ -257,9 +308,17 @@
             "Flutter Mane",
             "Chien-Pao"
         ],
+        "backlane_yo": [
+            "Iron Hands",
+            "Amoonguss"
+        ],
         "lead_oponente": [
             "Grimmsnarl",
             "Rillaboom"
+        ],
+        "backlane_oponente": [
+            "Heatran",
+            "Zapdos"
         ],
         "resultado": "Victoria"
     },
@@ -290,9 +349,17 @@
             "Iron Hands",
             "Amoonguss"
         ],
+        "backlane_yo": [
+            "Flutter Mane",
+            "Chien-Pao"
+        ],
         "lead_oponente": [
             "Dragonite",
             "Klefki"
+        ],
+        "backlane_oponente": [
+            "Ursaluna",
+            "Ursaluna"
         ],
         "resultado": "Victoria"
     },
@@ -323,9 +390,13 @@
             "Iron Hands",
             "Amoonguss"
         ],
+        "backlane_yo": [],
         "lead_oponente": [
             "Spiritomb",
             "Cacturne"
+        ],
+        "backlane_oponente": [
+            "Abomasnow"
         ],
         "resultado": "Victoria"
     },
@@ -356,9 +427,13 @@
             "Amoonguss",
             "Iron Hands"
         ],
+        "backlane_yo": [],
         "lead_oponente": [
             "Kleavor",
             "Iron Bundle"
+        ],
+        "backlane_oponente": [
+            "Perrserker"
         ],
         "resultado": "Victoria"
     },
@@ -389,9 +464,16 @@
             "Flutter Mane",
             "Amoonguss"
         ],
+        "backlane_yo": [
+            "Iron Hands"
+        ],
         "lead_oponente": [
             "Murkrow",
             "Chi-Yu"
+        ],
+        "backlane_oponente": [
+            "Flutter Mane",
+            "Gholdengo"
         ],
         "resultado": "Victoria"
     },
@@ -422,10 +504,15 @@
             "Iron Hands",
             "Amoonguss"
         ],
+        "backlane_yo": [
+            "Urshifu-Rapid-Strike",
+            "Chien-Pao"
+        ],
         "lead_oponente": [
             "Flutter Mane",
             "Chi-Yu"
         ],
+        "backlane_oponente": [],
         "resultado": "Derrota"
     },
     {
@@ -455,9 +542,16 @@
             "Chien-Pao",
             "Amoonguss"
         ],
+        "backlane_yo": [
+            "Iron Hands"
+        ],
         "lead_oponente": [
             "Amoonguss",
             "Goodra-Hisui"
+        ],
+        "backlane_oponente": [
+            "Typhlosion-Hisui",
+            "Azumarill"
         ],
         "resultado": "Victoria"
     },
@@ -488,9 +582,17 @@
             "Amoonguss",
             "Chien-Pao"
         ],
+        "backlane_yo": [
+            "Iron Hands",
+            "Flutter Mane"
+        ],
         "lead_oponente": [
             "Torkoal",
             "Lilligant-Hisui"
+        ],
+        "backlane_oponente": [
+            "Indeedee-F",
+            "Ursaluna"
         ],
         "resultado": "Derrota"
     },
@@ -521,9 +623,15 @@
             "Iron Hands",
             "Amoonguss"
         ],
+        "backlane_yo": [
+            "Landorus-Therian"
+        ],
         "lead_oponente": [
             "Tornadus",
             "Flutter Mane"
+        ],
+        "backlane_oponente": [
+            "Brambleghast"
         ],
         "resultado": "Victoria"
     },
@@ -554,10 +662,15 @@
             "Flutter Mane",
             "Iron Hands"
         ],
+        "backlane_yo": [
+            "Chien-Pao",
+            "Amoonguss"
+        ],
         "lead_oponente": [
             "Cresselia",
             "Ursaluna"
         ],
+        "backlane_oponente": [],
         "resultado": "Derrota"
     }
 ]

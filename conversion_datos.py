@@ -49,26 +49,33 @@ def procesar_linea(linea, datos_participantes):
         if "(" in linea:
             pokemon_name = linea.split("(")[1].split(")")[0].strip()
             pokemon_name = pokemon_name.rstrip("!")
-            if len(datos_participantes['lead_oponente']) < 2:
+            if len(datos_participantes['lead_oponente']) < 2 and pokemon_name not in datos_participantes['lead_oponente']:
                 datos_participantes['lead_oponente'].append(pokemon_name)
+            elif len(datos_participantes['backlane_oponente']) < 2 and pokemon_name not in datos_participantes['lead_oponente']:
+                datos_participantes['backlane_oponente'].append(pokemon_name)
         else:
             pokemon_name = linea.split("sent out")[1].strip()
             pokemon_name = pokemon_name.rstrip("!")
-            if len(datos_participantes['lead_oponente']) < 2:
+            if len(datos_participantes['lead_oponente']) < 2 and pokemon_name not in datos_participantes['lead_oponente']:
                 datos_participantes['lead_oponente'].append(pokemon_name)
+            elif len(datos_participantes['backlane_oponente']) < 2 and pokemon_name not in datos_participantes['lead_oponente']:
+                datos_participantes['backlane_oponente'].append(pokemon_name)
         
     if "Go!" in linea:
         if "(" in linea:
             pokemon_name = linea.split("(")[1].split(")")[0].strip()
             pokemon_name = pokemon_name.rstrip("!")
-            if len(datos_participantes['lead_yo']) < 2:
+            if len(datos_participantes['lead_yo']) < 2 and pokemon_name not in datos_participantes['lead_yo']:
                 datos_participantes['lead_yo'].append(pokemon_name)
+            elif len(datos_participantes['backlane_yo']) < 2 and pokemon_name not in datos_participantes['lead_yo']:
+                datos_participantes['backlane_yo'].append(pokemon_name)
         else:
             pokemon_name = linea.split("Go!")[1].strip()
             pokemon_name = pokemon_name.rstrip("!")
-            if len(datos_participantes['lead_yo']) < 2:
+            if len(datos_participantes['lead_yo']) < 2 and pokemon_name not in datos_participantes['lead_yo']:
                 datos_participantes['lead_yo'].append(pokemon_name)
-
+            elif len(datos_participantes['backlane_yo']) < 2 and pokemon_name not in datos_participantes['lead_yo']:
+                datos_participantes['backlane_yo'].append(pokemon_name)
     return datos_participantes
 
 def procesar_archivo(archivo_entrada):
@@ -90,7 +97,9 @@ def procesar_archivo(archivo_entrada):
                     'pokemons_yo': [],
                     'pokemons_oponente': [],
                     'lead_yo': [],
+                    'backlane_yo': [],
                     'lead_oponente': [],
+                    'backlane_oponente': [],
                     'resultado': ''
                 }
             else:
